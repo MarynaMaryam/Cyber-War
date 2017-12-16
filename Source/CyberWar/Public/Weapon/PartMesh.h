@@ -4,11 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "UObject/NoExportTypes.h"
+#include "Engine/SkeletalMesh.h"
 #include "PartMesh.generated.h"
-
-/**
- * Базовый класс частей оружия.
- */
 
 UENUM(BlueprintType)
 enum class EPartType : uint8
@@ -23,13 +20,49 @@ enum class EPartType : uint8
 	PartType_Core		UMETA(DisplayName = "Core")
 };
 
+USTRUCT(BlueprintType)
+struct FWeapPartMeshInfo
+{
+	GENERATED_BODY()
+
+	UPROPERTY(EditDefaultsOnly)
+		UTexture2D* Icon;
+
+	UPROPERTY(EditDefaultsOnly)
+		USkeletalMesh* FirstPersonMesh;
+
+	UPROPERTY(EditDefaultsOnly)
+		USkeletalMesh* ThirdPersonMesh;
+
+	UPROPERTY(EditDefaultsOnly)
+		FName Socket;
+
+	FWeapPartMeshInfo()
+	{
+		Icon = nullptr;
+		FirstPersonMesh = NULL;
+		ThirdPersonMesh = NULL;
+		Socket = "None";
+	}
+
+};
+
+/**
+* Базовый класс частей оружия.
+*/
+
 UCLASS(Blueprintable)
 class CYBERWAR_API UPartMesh : public UObject
 {
 	GENERATED_BODY()
 
-		UPROPERTY(EditDefaultsOnly)
+	UPROPERTY(EditDefaultsOnly)
 		EPartType PartType;
 	
+	UPROPERTY(EditDefaultsOnly)
+		TArray<FWeapPartMeshInfo> Meshes;
+
+	UPROPERTY(EditDefaultsOnly)
+		UStaticMesh* OverrideMagazineMesh;
 	
 };
