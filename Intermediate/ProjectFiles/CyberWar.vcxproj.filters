@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\CyberWar.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{04BF6073-5C82-458B-82B1-B6206AA9CF16}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CyberWar.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\CyberWarEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9290CEE1-6310-4BB4-A34E-66F3998E59DB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\CyberWar">
+			<UniqueIdentifier>{A1BECDEC-7ECF-43CA-93D4-C4EE624C2796}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CyberWar\CyberWar.Build.cs">
+			<Filter>Source\CyberWar</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\CyberWar\CyberWar.cpp">
+			<Filter>Source\CyberWar</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CyberWar\CyberWar.h">
+			<Filter>Source\CyberWar</Filter>
+		</ClInclude >
+		<Filter Include="Source\CyberWar\Private">
+			<UniqueIdentifier>{F620A7B1-44C4-44C3-A288-AAEB6F587477}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\CyberWar\Private\Weapon">
+			<UniqueIdentifier>{DC93B689-4760-4E91-8A4B-2993D6D23653}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\CyberWar\Private\Weapon\PartMesh.cpp">
+			<Filter>Source\CyberWar\Private\Weapon</Filter>
+		</ClCompile >
+		<Filter Include="Source\CyberWar\Public">
+			<UniqueIdentifier>{7866C836-E451-4346-B5B0-B13422F79E65}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\CyberWar\Public\Weapon">
+			<UniqueIdentifier>{455A0A54-F3FF-4C87-BE3C-39887BB6A26A}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\CyberWar\Public\Weapon\PartMesh.h">
+			<Filter>Source\CyberWar\Public\Weapon</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

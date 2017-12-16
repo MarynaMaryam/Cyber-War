@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CyberWar.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Soft\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Development\UnrealProject\Netlex\CyberWar\Intermediate\Build\Win64\UE4Editor\Development\CyberWar\CyberWar.cpp.obj"
+"F:\Development\UnrealProject\Netlex\CyberWar\Intermediate\Build\Win64\UE4Editor\Development\CyberWar\PartMesh.cpp.obj"
+"F:\Development\UnrealProject\Netlex\CyberWar\Intermediate\Build\Win64\UE4Editor\Development\CyberWar\CyberWar.init.gen.cpp.obj"
+"F:\Development\UnrealProject\Netlex\CyberWar\Intermediate\Build\Win64\UE4Editor\Development\CyberWar\PartMesh.gen.cpp.obj"
+"F:\Soft\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\CyberWar\PCLaunch.rc.res"
+"F:\Soft\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\Development\UnrealProject\Netlex\CyberWar\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CyberWar.lib"
