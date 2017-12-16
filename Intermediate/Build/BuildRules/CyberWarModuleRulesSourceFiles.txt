@@ -1,3 +1,0 @@
-F:\Development\UnrealProject\Netlex\CyberWar\Source\CyberWar\CyberWar.Build.cs
-F:\Development\UnrealProject\Netlex\CyberWar\Source\CyberWar.Target.cs
-F:\Development\UnrealProject\Netlex\CyberWar\Source\CyberWarEditor.Target.cs
