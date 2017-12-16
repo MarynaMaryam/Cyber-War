@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Студия разработки игр Netlex.
 
 #pragma once
 
@@ -48,13 +48,15 @@ struct FWeapPartMeshInfo
 };
 
 /**
-* Базовый класс частей оружия.
+* Базовый класс для частей оружия.
 */
 
-UCLASS(Blueprintable)
+UCLASS(Blueprintable, BlueprintType)
 class CYBERWAR_API UPartMesh : public UObject
 {
 	GENERATED_BODY()
+
+public:
 
 	UPROPERTY(EditDefaultsOnly)
 		EPartType PartType;
