@@ -18,7 +18,7 @@ public class Player
 	{
 		HashMap<String,Object> data = new HashMap<String,Object>();
 
-		int Points = 0;
+		int Points = 1000000;
 
 		data.put("success", false);
 		data.put("ecode", 0);

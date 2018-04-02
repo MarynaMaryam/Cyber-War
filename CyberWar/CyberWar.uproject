@@ -89,6 +89,10 @@
 		{
 			"Name": "OnlineSubsystem",
 			"Enabled": false
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
