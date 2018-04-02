@@ -1,0 +1,1333 @@
+﻿Log file open, 03/29/18 09:26:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CyberWar
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1753043738) SRandInit(-1753043738).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.110293
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin LowEntrySocketConnection
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Binaries/Win64/UE4Editor-CyberWar-1134.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibraryEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntrySocketConnection/Binaries/Win64/UE4Editor-LowEntrySocketConnection.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestEditorPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: F:/Soft/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.29-06.26.36:316][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-06.26.36:316][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.29-06.26.36:377][  0]LogInit: Computer: DESKTOP-38OIRC4
+[2018.03.29-06.26.36:377][  0]LogInit: User: root
+[2018.03.29-06.26.36:377][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.29-06.26.36:377][  0]LogInit: High frequency timer resolution =2.825500 MHz
+[2018.03.29-06.26.36:382][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.03.29-06.26.36:382][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.29-06.26.36:382][  0]LogMemory: Process Physical Memory: 270.52 MB used, 270.52 MB peak
+[2018.03.29-06.26.36:382][  0]LogMemory: Process Virtual Memory: 267.25 MB used, 267.25 MB peak
+[2018.03.29-06.26.36:382][  0]LogMemory: Physical Memory: 4072.95 MB used,  4036.34 MB free, 8109.29 MB total
+[2018.03.29-06.26.36:382][  0]LogMemory: Virtual Memory: 664.63 MB used,  4036.34 MB free, 134217728.00 MB total
+[2018.03.29-06.26.37:376][  0]LogInit: Using OS detected language (ru-RU).
+[2018.03.29-06.26.37:377][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.03.29-06.26.37:455][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.03.29-06.26.37:456][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.03.29-06.26.38:244][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.29-06.26.41:317][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.29-06.26.41:400][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2018.03.29-06.26.41:400][  0]LogD3D11RHI:       2020/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.29-06.26.41:411][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.29-06.26.41:411][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.29-06.26.41:413][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.29-06.26.41:413][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.29-06.26.41:413][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.29-06.26.41:438][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.29-06.26.41:446][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.29-06.26.41:446][  0]LogWindows: EnumDisplayDevices:
+[2018.03.29-06.26.41:446][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.03.29-06.26.41:447][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.29-06.26.41:447][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.29-06.26.41:447][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.29-06.26.41:447][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2018.03.29-06.26.41:447][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.29-06.26.41:447][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.29-06.26.41:447][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.03.29-06.26.41:529][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.29-06.26.41:806][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.29-06.26.41:979][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Intermediate/Shaders/WorkingDirectory/2060/).
+[2018.03.29-06.26.41:979][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/root/AppData/Local/Temp/UnrealShaderWorkingDir/0EFCE24B4168FB56C8CEA0AA4C61EF82/'.
+[2018.03.29-06.26.42:028][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.29-06.26.53:242][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.29-06.26.53:289][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.29-06.26.53:380][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.29-06.26.53:439][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.29-06.26.53:592][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.29-06.26.53:674][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.29-06.26.53:793][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.29-06.26.53:867][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.29-06.26.53:952][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.29-06.26.54:075][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.29-06.26.54:223][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.29-06.26.54:266][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.29-06.26.54:360][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.29-06.26.54:410][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.29-06.26.54:627][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.29-06.26.54:627][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.29-06.26.54:762][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.29-06.26.54:860][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.29-06.26.55:037][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.29-06.26.55:077][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.29-06.26.55:160][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.29-06.26.55:264][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.29-06.26.55:340][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.29-06.26.55:444][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.29-06.26.55:445][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.29-06.26.56:958][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.29-06.26.58:031][  0]LogDerivedDataCache: Loaded boot cache 1.03s 84MB C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.29-06.26.58:031][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.29-06.26.58:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.29-06.26.58:031][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.29-06.26.58:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.29-06.26.58:031][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.29-06.26.58:080][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.29-06.26.58:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/root/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.29-06.26.58:151][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.29-06.26.58:217][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.29-06.26.58:247][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-06.26.58:247][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-06.27.14:241][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-06.27.16:320][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.29-06.27.16:447][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.29-06.27.16:464][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.29-06.27.16:464][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.29-06.27.16:464][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.29-06.27.16:464][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.29-06.27.16:840][  0]LogNetVersion: CyberWar , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2311747216)
+[2018.03.29-06.27.17:836][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.03.29-06.27.26:796][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.052630 seconds
+[2018.03.29-06.27.26:830][  0]LogUObjectArray: 35346 objects as part of root set at end of initial load.
+[2018.03.29-06.27.26:830][  0]LogUObjectAllocator: 7033896 out of 0 bytes used by permanent object pool.
+[2018.03.29-06.27.26:830][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.29-06.27.26:891][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.29-06.27.51:252][  0]LogInit: Using libcurl 7.47.1
+[2018.03.29-06.27.51:252][  0]LogInit:  - built for x86_64-pc-win32
+[2018.03.29-06.27.51:252][  0]LogInit:  - supports SSL with OpenSSL/1.0.2g
+[2018.03.29-06.27.51:252][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.03.29-06.27.51:252][  0]LogInit:  - other features:
+[2018.03.29-06.27.51:252][  0]LogInit:      CURL_VERSION_SSL
+[2018.03.29-06.27.51:254][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.03.29-06.27.51:254][  0]LogInit:      CURL_VERSION_IPV6
+[2018.03.29-06.27.51:254][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.03.29-06.27.51:254][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.03.29-06.27.51:254][  0]LogInit:      CURL_VERSION_IDN
+[2018.03.29-06.27.51:256][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.03.29-06.27.51:256][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2018.03.29-06.27.51:256][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.03.29-06.27.51:256][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.03.29-06.27.51:257][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2018.03.29-06.27.51:375][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.29-06.27.51:461][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.29-06.27.53:414][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.03.29-06.27.53:457][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:457][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:584][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.29-06.27.53:637][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.03.29-06.27.53:637][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:637][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:667][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.03.29-06.27.53:668][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:668][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:684][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.03.29-06.27.53:685][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:685][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:712][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.03.29-06.27.53:712][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:712][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:734][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.03.29-06.27.53:734][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:734][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:821][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.03.29-06.27.53:821][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:821][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:846][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.03.29-06.27.53:846][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:846][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.53:881][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.03.29-06.27.53:881][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-06.27.53:881][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-06.27.55:054][  0]SourceControl: Source control is disabled
+[2018.03.29-06.27.55:054][  0]SourceControl: Source control is disabled
+[2018.03.29-06.27.55:150][  0]SourceControl: Source control is disabled
+[2018.03.29-06.27.55:254][  0]SourceControl: Source control is disabled
+[2018.03.29-06.27.57:152][  0]LogOcInput: OculusInput pre-init called
+[2018.03.29-06.27.57:407][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.03.29-06.27.57:407][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.03.29-06.27.58:148][  0]LogEngine: Initializing Engine...
+[2018.03.29-06.27.58:261][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.29-06.28.00:001][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.29-06.28.00:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.054 s
+[2018.03.29-06.28.01:330][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.29-06.28.01:369][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-06.28.01:445][  0]LogInit: FAudioDevice initialized.
+[2018.03.29-06.28.02:243][  0]LogDerivedDataCache: Saved boot cache 0.80s 84MB C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.29-06.28.02:260][  0]LogInit: Texture streaming: Enabled
+[2018.03.29-06.28.02:495][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.29-06.28.02:803][  0]LogInit: Transaction tracking system initialized
+[2018.03.29-06.28.03:800][  0]BlueprintLog: New page: Editor Load
+[2018.03.29-06.28.06:352][  0]LocalizationService: Localization service is disabled
+[2018.03.29-06.28.08:123][  0]LogConsoleResponse: Display: 
+[2018.03.29-06.28.12:340][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/' took 0.03s
+[2018.03.29-06.28.12:340][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.29-06.28.12:347][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.29-06.28.12:353][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.29-06.28.15:102][  0]SourceControl: Source control is disabled
+[2018.03.29-06.28.15:167][  0]Cmd: MAP LOAD FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.29-06.28.15:167][  0]LightingResults: New page: Lighting Build
+[2018.03.29-06.28.15:268][  0]MapCheck: New page: Map Check
+[2018.03.29-06.28.15:268][  0]LightingResults: New page: Lighting Build
+[2018.03.29-06.28.35:058][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.29-06.28.52:132][  0]LogAIModule: Creating AISystem for world Testing
+[2018.03.29-06.28.52:417][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.29-06.28.52:519][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.29-06.28.52:650][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.781ms to complete.
+[2018.03.29-06.28.52:651][  0]LogFileHelpers: Loading map 'Testing' took 37.492
+[2018.03.29-06.28.53:138][  0]LogSlate: Took 0.017683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.29-06.28.54:800][  0]LogCollectionManager: Loaded 0 collections in 0.001309 seconds
+[2018.03.29-06.28.55:017][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Collections/' took 0.01s
+[2018.03.29-06.28.55:017][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Developers/root/Collections/' took 0.01s
+[2018.03.29-06.28.55:017][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Collections/' took 0.01s
+[2018.03.29-06.28.55:017][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.29-06.28.55:097][  0]LogContentBrowser: Native class hierarchy populated in 0.0643 seconds. Added 2348 classes and 512 folders.
+[2018.03.29-06.28.55:235][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.03.29-06.28.56:172][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.03.29-06.28.56:241][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.03.29-06.28.56:407][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2018.03.29-06.28.56:874][  0]LogSlate: Took 0.014052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.29-06.28.56:905][  0]LogSlate: Took 0.010061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.29-06.28.57:509][  0]LogRenderer: Reallocating scene render targets to support 1148x584 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-06.28.58:697][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.03.29-06.28.58:697][  0]LogLoad: (Engine Initialization) Total time: 153.09 seconds
+[2018.03.29-06.28.58:697][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.29-06.28.58:697][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.29-06.28.58:697][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.29-06.28.59:818][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.29-06.29.00:107][  1]LogSlate: Took 0.017578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-06.29.00:167][  2]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-06.29.00:424][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.03.29-06.29.02:523][  2]LogSlate: Took 0.026992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.29-06.29.12:596][ 33]LogAssetRegistry: Asset discovery search completed in 114.7826 seconds
+[2018.03.29-06.29.12:615][ 33]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.29-06.29.12:615][ 33]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2018.03.29-06.35.48:777][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:777][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap.
+[2018.03.29-06.35.48:778][232]LoadErrors: Error: /Game/Maps/Login : Can't find file for asset. /Script/OnlineBlueprintSupport
+[2018.03.29-06.35.48:820][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:820][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap.
+[2018.03.29-06.35.48:821][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:821][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:821][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:821][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:821][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:821][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:822][232]LoadErrors: Failed to load /Script/OnlineBlueprintSupport.K2Node_LatentOnlineCall Referenced by EventGraph
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:822][232]LoadErrors: Failed to load /Script/OnlineBlueprintSupport.K2Node_LatentOnlineCall Referenced by K2Node_Event_0
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:822][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:823][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:823][232]LoadErrors: Failed to load /Script/OnlineBlueprintSupport.K2Node_LatentOnlineCall Referenced by K2Node_CallFunction_0
+[2018.03.29-06.35.48:823][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:823][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:823][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:823][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:823][232]LoadErrors: Failed to load /Script/OnlineBlueprintSupport.K2Node_LatentOnlineCall Referenced by K2Node_CreateWidget_0
+[2018.03.29-06.35.48:823][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:826][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:826][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:826][232]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.35.48:826][232]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.35.48:830][232]LogAIModule: Creating AISystem for world Login
+[2018.03.29-06.35.48:875][232]Cmd: MAP LOAD FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.29-06.35.48:875][232]LightingResults: New page: Lighting Build
+[2018.03.29-06.35.48:876][232]LoadErrors: New page: Loading map: Login.umap
+[2018.03.29-06.35.48:895][232]MapCheck: New page: Map Check
+[2018.03.29-06.35.48:895][232]LightingResults: New page: Lighting Build
+[2018.03.29-06.35.49:027][232]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.29-06.35.49:087][232]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.29-06.35.49:214][232]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 126.71ms to complete.
+[2018.03.29-06.35.49:214][232]LogFileHelpers: Loading map 'Login' took 0.340
+[2018.03.29-06.36.07:523][317]LogTexture: Display: Building textures: close (BGRA8, 128X128)
+[2018.03.29-06.36.07:898][317]LogLinker: Warning: Asset '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.29-06.36.08:771][317]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-06.36.49:597][721]BlueprintLog: New page: Compile Title
+[2018.03.29-06.36.50:269][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/Title" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset" SILENT=true
+[2018.03.29-06.36.50:362][753]LogSavePackage: Save=75.21ms
+[2018.03.29-06.36.50:362][753]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Title4E82D4234E20A45E5EA294AED4BE0504.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset'
+[2018.03.29-06.36.50:364][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset
+[2018.03.29-06.37.51:478][371]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-06.37.51:478][371]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-06.39.01:581][528]BlueprintLog: New page: Compile BackgroundPage
+[2018.03.29-06.39.02:325][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/BackgroundPage" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset" SILENT=true
+[2018.03.29-06.39.02:334][556]LogSavePackage: Save=8.20ms
+[2018.03.29-06.39.02:334][556]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/BackgroundPage4DB44F894FFA1B5DAF43BEA1CE418EA3.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset'
+[2018.03.29-06.39.02:336][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset
+[2018.03.29-06.40.19:777][166]BlueprintLog: New page: Compile PageLogin
+[2018.03.29-06.40.20:518][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pages/PageLogin" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Pages/PageLogin.uasset" SILENT=true
+[2018.03.29-06.40.20:581][204]LogSavePackage: Save=53.47ms
+[2018.03.29-06.40.20:582][204]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/PageLoginECEE4F7C4AC0A6DE5A0BA3B5AC301E9D.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Pages/PageLogin.uasset'
+[2018.03.29-06.40.20:598][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Pages/PageLogin.uasset
+[2018.03.29-06.40.51:759][ 37]BlueprintLog: New page: Compile BackgroundPage
+[2018.03.29-06.40.52:430][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/BackgroundPage" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset" SILENT=true
+[2018.03.29-06.40.52:486][ 61]LogSavePackage: Save=43.23ms
+[2018.03.29-06.40.52:486][ 61]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/BackgroundPage84D8AE064416A10EF12D82B71FAB65C9.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset'
+[2018.03.29-06.40.52:487][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset
+[2018.03.29-06.41.04:534][779]BlueprintLog: New page: Compile BackgroundPage
+[2018.03.29-06.41.05:171][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/BackgroundPage" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset" SILENT=true
+[2018.03.29-06.41.05:192][802]LogSavePackage: Save=7.20ms
+[2018.03.29-06.41.05:192][802]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/BackgroundPage26F4F9F04B2B09667908B4A36304210A.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset'
+[2018.03.29-06.41.05:194][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/BackgroundPage.uasset
+[2018.03.29-06.43.11:900][823]LogSlate: Took 0.098909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.29-06.43.25:473][633]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-06.43.25:473][633]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-06.44.06:966][ 99]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-06.44.06:966][ 99]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-06.44.17:661][718]LogSlate: Took 0.012144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.29-06.44.21:051][922]BlueprintLog: New page: Compile PageLogin
+[2018.03.29-06.44.21:605][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pages/PageLogin" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Pages/PageLogin.uasset" SILENT=true
+[2018.03.29-06.44.21:637][951]LogSavePackage: Save=18.73ms
+[2018.03.29-06.44.21:637][951]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/PageLoginEFE157AD46A8519B1C95A7B832C97416.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Pages/PageLogin.uasset'
+[2018.03.29-06.44.21:638][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Pages/PageLogin.uasset
+[2018.03.29-06.44.24:170][102]BlueprintLog: New page: Compile Title
+[2018.03.29-06.44.24:890][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/Title" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset" SILENT=true
+[2018.03.29-06.44.24:966][130]LogSavePackage: Save=62.95ms
+[2018.03.29-06.44.24:966][130]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Title4961EED949074BD6E67D14BEC4EA75EC.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset'
+[2018.03.29-06.44.24:967][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset
+[2018.03.29-06.44.43:929][260]BlueprintLog: New page: Compile Title
+[2018.03.29-06.44.50:826][655]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-06.44.51:260][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.44.51:260][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-06.44.51:275][655]PIE: New page: PIE session: Login (Mar 29, 2018, 12:44:51 PM)
+[2018.03.29-06.44.51:275][655]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-06.44.51:276][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000911s)
+[2018.03.29-06.44.51:277][655]LogAIModule: Creating AISystem for world Login
+[2018.03.29-06.44.51:277][655]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2018.03.29-06.44.51:277][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002370s)
+[2018.03.29-06.44.51:311][655]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-06.44.51:354][655]LogInit: FAudioDevice initialized.
+[2018.03.29-06.44.51:491][655]LogLoad: Game class is 'CW_BaseGameMode_C'
+[2018.03.29-06.44.51:512][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-09.44.51
+[2018.03.29-06.44.51:513][655]LogWorld: Bringing up level for play took: 0.000807
+[2018.03.29-06.44.51:513][655]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-06.44.51:574][655]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2018.03.29-06.44.51:574][655]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.29-06.44.51:574][655]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.29-06.44.51:574][655]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.29-06.44.51:622][655]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-06.44.51:623][655]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-06.44.51:623][655]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.29-06.44.51:626][655]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.409
+[2018.03.29-06.44.51:626][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.44.51:663][655]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-06.44.52:685][711]LogBlueprintUserMessages: [ServerManager] [ ServerManager ]: ( 52:675 ) - Не удалось подключиться к серверу
+[2018.03.29-06.44.52:875][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.44.52:933][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.44.57:600][973]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-06.45.07:962][585]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-06.45.07:971][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:971][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Online/CW_Lobby_GameMode.uasset.
+[2018.03.29-06.45.07:971][585]LoadErrors: Error: /Game/Blueprints/Online/CW_Lobby_GameMode : Can't find file for asset. /Script/OnlineBlueprintSupport
+[2018.03.29-06.45.07:972][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:972][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Online/CW_Lobby_GameMode.uasset.
+[2018.03.29-06.45.07:973][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:973][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:973][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:973][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:974][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:974][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:974][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:974][585]LoadErrors: Failed to load /Script/OnlineBlueprintSupport.K2Node_LatentOnlineCall Referenced by EventGraph
+[2018.03.29-06.45.07:975][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:975][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:975][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:976][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:976][585]LoadErrors: Failed to load /Script/OnlineBlueprintSupport.K2Node_LatentOnlineCall Referenced by K2Node_Event_0
+[2018.03.29-06.45.07:976][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:976][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:976][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:977][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:977][585]LoadErrors: Failed to load /Script/OnlineBlueprintSupport.K2Node_LatentOnlineCall Referenced by K2Node_CallFunction_1
+[2018.03.29-06.45.07:977][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:982][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:982][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.07:982][585]LogLinker: Warning: Can't find file '/Script/OnlineBlueprintSupport'
+[2018.03.29-06.45.07:982][585]LogLinker: Warning: Can't find file for asset '/Script/OnlineBlueprintSupport' while loading NULL.
+[2018.03.29-06.45.09:919][697]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-06.45.09:953][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.45.09:954][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-06.45.09:954][697]PIE: New page: PIE session: Login (Mar 29, 2018, 12:45:09 PM)
+[2018.03.29-06.45.09:954][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-06.45.09:956][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2018.03.29-06.45.09:956][697]LogAIModule: Creating AISystem for world Login
+[2018.03.29-06.45.09:957][697]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2018.03.29-06.45.09:957][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002707s)
+[2018.03.29-06.45.09:995][697]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-06.45.10:036][697]LogInit: FAudioDevice initialized.
+[2018.03.29-06.45.10:076][697]LogLoad: Game class is 'CW_Lobby_GameMode_C'
+[2018.03.29-06.45.10:078][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-09.45.10
+[2018.03.29-06.45.10:078][697]LogWorld: Bringing up level for play took: 0.001056
+[2018.03.29-06.45.10:081][697]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.29-06.45.10:081][697]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.29-06.45.10:081][697]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.29-06.45.10:180][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:180][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:180][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(CharacterMesh0) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:180][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(CharacterMesh0) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:180][697]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 10:180 ) - Оружие прикреплено к владельцу
+[2018.03.29-06.45.10:180][697]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 10:180 ) - OnSelectedWeapon
+[2018.03.29-06.45.10:237][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:238][697]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 10:237 ) - Новый владелец
+[2018.03.29-06.45.10:255][697]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.29-06.45.10:260][697]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 1.043
+[2018.03.29-06.45.10:261][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.45.10:268][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:321][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(CharacterMesh0) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:321][697]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-06.45.10:777][698]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 10:777 ) - Анимации от 3-го лица загружены
+[2018.03.29-06.45.10:779][698]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 10:779 ) - Анимации от 1-го лица загружены
+[2018.03.29-06.45.12:036][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.45.12:134][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.45.15:879][988]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-06.45.47:381][625]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-06.46.00:844][429]LogSavePackage: Save=7.56ms
+[2018.03.29-06.46.00:844][429]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_Login_GameMode6546E44D4AAA2EC334A1A4B3F34B1486.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Online/CW_Login_GameMode.uasset'
+[2018.03.29-06.46.00:845][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Online/CW_Login_GameMode.uasset
+[2018.03.29-06.46.09:883][946]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-06.46.09:923][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.46.09:924][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-06.46.09:924][946]PIE: New page: PIE session: Login (Mar 29, 2018, 12:46:09 PM)
+[2018.03.29-06.46.09:924][946]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-06.46.09:926][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001368s)
+[2018.03.29-06.46.09:926][946]LogAIModule: Creating AISystem for world Login
+[2018.03.29-06.46.09:927][946]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2018.03.29-06.46.09:927][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002981s)
+[2018.03.29-06.46.09:972][946]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-06.46.10:016][946]LogInit: FAudioDevice initialized.
+[2018.03.29-06.46.10:068][946]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-06.46.10:069][946]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-09.46.10
+[2018.03.29-06.46.10:069][946]LogWorld: Bringing up level for play took: 0.000908
+[2018.03.29-06.46.10:076][946]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.859
+[2018.03.29-06.46.10:077][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.46.11:015][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.46.11:072][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.46.19:492][468]BlueprintLog: New page: Compile Login
+[2018.03.29-06.46.20:424][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Login" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.29-06.46.20:658][498]LogSavePackage: Save=164.64ms
+[2018.03.29-06.46.20:658][498]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Login9C0C8AA7418F2C3F2C77CE9DEE568A8C.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap'
+[2018.03.29-06.46.20:659][498]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap
+[2018.03.29-06.46.20:712][498]LogFileHelpers: Saving map 'Login' took 0.431
+[2018.03.29-06.46.24:936][749]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-06.46.24:986][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.46.24:986][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-06.46.24:987][749]PIE: New page: PIE session: Login (Mar 29, 2018, 12:46:24 PM)
+[2018.03.29-06.46.24:987][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-06.46.24:988][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001259s)
+[2018.03.29-06.46.24:989][749]LogAIModule: Creating AISystem for world Login
+[2018.03.29-06.46.24:989][749]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2018.03.29-06.46.24:990][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002732s)
+[2018.03.29-06.46.25:030][749]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.03.29-06.46.25:031][749]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.03.29-06.46.25:037][749]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-06.46.25:079][749]LogInit: FAudioDevice initialized.
+[2018.03.29-06.46.25:121][749]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-06.46.25:122][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-09.46.25
+[2018.03.29-06.46.25:123][749]LogWorld: Bringing up level for play took: 0.000833
+[2018.03.29-06.46.25:123][749]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-06.46.25:129][749]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.088
+[2018.03.29-06.46.25:130][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.46.28:579][949]LogRenderer: Reallocating scene render targets to support 1920x1028 Format 10 NumSamples 1 (Frame:202).
+[2018.03.29-06.46.36:158][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.46.36:198][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-06.50.13:144][785]BlueprintLog: New page: Compile Login
+[2018.03.29-06.50.13:842][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Login" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.29-06.50.14:036][806]LogSavePackage: Save=150.39ms
+[2018.03.29-06.50.14:036][806]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Login389D457345715D1737A981B970013672.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap'
+[2018.03.29-06.50.14:037][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap
+[2018.03.29-06.50.14:090][806]LogFileHelpers: Saving map 'Login' took 0.372
+[2018.03.29-06.50.58:758][450]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UUserWidget::AddToViewport' [Элемент не найден.]
+[2018.03.29-06.53.48:709][578]LogHttp: Warning: 000001AD9A2D6200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.29-06.53.48:709][578]LogHttp: Warning: 000001AD9A2D6200: libcurl info message cache 0 (Connection 9 seems to be dead!)
+[2018.03.29-06.53.48:709][578]LogHttp: Warning: 000001AD9A2D6200: libcurl info message cache 1 (Closing connection 9)
+[2018.03.29-06.53.48:709][578]LogHttp: Warning: 000001AD9A2D6200: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.03.29-06.53.48:709][578]LogHttp: Warning: 000001AD9A2D6200: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.29-06.53.48:709][578]LogHttp: Warning: 000001AD9A2D6200: libcurl info message cache 4 (Closing connection 10)
+[2018.03.29-06.53.58:839][185]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-06.53.59:432][211]LogSavePackage: Save=26.96ms
+[2018.03.29-06.53.59:432][211]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance736E13FF4A4A8E177B33DC81EC118E7A.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-06.53.59:434][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-06.54.53:925][464]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-06.54.55:117][527]LogSavePackage: Save=25.59ms
+[2018.03.29-06.54.55:117][527]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance2BF877E94B692A2DDE9D02B2DB76B526.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-06.54.55:119][527]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-06.55.48:735][730]LogHttp: Warning: 000001AD9B789A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.29-06.55.48:735][730]LogHttp: Warning: 000001AD9B789A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.29-06.55.48:735][730]LogHttp: Warning: 000001AD9B789A80: libcurl info message cache 1 (Closing connection 11)
+[2018.03.29-06.55.55:179][110]LogSlate: Took 0.012386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.29-06.57.48:776][196]LogHttp: Warning: 000001AD96308A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.29-06.57.48:776][196]LogHttp: Warning: 000001AD96308A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.29-06.57.48:776][196]LogHttp: Warning: 000001AD96308A00: libcurl info message cache 1 (Closing connection 12)
+[2018.03.29-06.58.34:312][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/ETypePage" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset" SILENT=true
+[2018.03.29-06.58.34:315][909]LogSavePackage: Save=1.29ms
+[2018.03.29-06.58.34:315][909]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/ETypePageCD1E5DC24F8C2A9CF37050B434CAA87C.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset'
+[2018.03.29-06.58.34:317][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset
+[2018.03.29-06.59.01:924][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/ETypePage" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset" SILENT=true
+[2018.03.29-06.59.01:972][546]LogSavePackage: Save=36.42ms
+[2018.03.29-06.59.01:972][546]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/ETypePageB9D07C2248D47A86E72ED6A4DD7C5BBF.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset'
+[2018.03.29-06.59.01:974][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset
+[2018.03.29-06.59.41:469][834]LogSavePackage: Save=45.23ms
+[2018.03.29-06.59.41:469][834]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance4488441344EBC663A5A35FAD5409421C.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-06.59.41:470][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-06.59.41:858][857]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-06.59.41:871][857]LogBlueprint: Error: [Compiler CW_GameInstance] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.03.29-06.59.41:872][857]LogClass: Warning: Type mismatch in Pages of CW_GameInstance_C - Previous (ObjectProperty) Current(MapProperty) for package:  FObjectReader
+[2018.03.29-06.59.41:872][857]LogBlueprint: Warning: [Compiler CW_GameInstance] Can't parse default value 'None' for  Pages . Property: Pages.
+[2018.03.29-06.59.41:913][857]LogBlueprint: Warning: [Compiler CW_GameInstance] [1996.30] Compile of CW_GameInstance failed. 1 Fatal Issue(s) 1 Warning(s) [in 54 ms] (/Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance)
+[2018.03.29-06.59.48:816][268]LogHttp: Warning: 000001ADB5C03400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.29-06.59.48:816][268]LogHttp: Warning: 000001ADB5C03400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.29-06.59.48:816][268]LogHttp: Warning: 000001ADB5C03400: libcurl info message cache 1 (Closing connection 13)
+[2018.03.29-07.00.00:278][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/ETypePage" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset" SILENT=true
+[2018.03.29-07.00.00:293][946]LogSavePackage: Save=1.03ms
+[2018.03.29-07.00.00:293][946]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/ETypePage568510C444D592A8A00A5F85E1DA28D0.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset'
+[2018.03.29-07.00.00:294][946]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/ETypePage.uasset
+[2018.03.29-07.00.12:971][706]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.00.12:982][706]LogBlueprint: Error: [Compiler CW_GameInstance] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.03.29-07.00.13:022][706]LogBlueprint: Warning: [Compiler CW_GameInstance] [2027.41] Compile of CW_GameInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 50 ms] (/Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance)
+[2018.03.29-07.00.24:565][388]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.00.24:582][388]LogBlueprint: Error: [Compiler CW_GameInstance] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.03.29-07.00.24:624][388]LogBlueprint: Warning: [Compiler CW_GameInstance] [2039.01] Compile of CW_GameInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 58 ms] (/Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance)
+[2018.03.29-07.00.25:172][415]LogSavePackage: Save=23.07ms
+[2018.03.29-07.00.25:172][415]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceCF08B8754DE2834EBD81BE86838604CB.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.00.25:174][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.05.34:321][ 97]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.05.34:962][122]LogSavePackage: Save=82.52ms
+[2018.03.29-07.05.34:963][122]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance0823257A4A1C7B0AB1D43F8B1D52B646.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.05.34:964][122]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.05.47:823][888]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.05.48:337][909]LogSavePackage: Save=42.19ms
+[2018.03.29-07.05.48:337][909]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance5EDD317E4CA6ED682A28ED92DE0A234F.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.05.48:340][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.06.35:076][708]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.06.36:080][758]LogSavePackage: Save=41.50ms
+[2018.03.29-07.06.36:080][758]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance0D81C3134112C2D5792AF29C2B23C351.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.06.36:082][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.10.48:106][490]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-07.15.37:241][758]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.15.38:003][790]LogSavePackage: Save=99.97ms
+[2018.03.29-07.15.38:004][790]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceE7038B90436FC6E747976FB983F1728F.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.15.38:005][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.15.40:561][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Login" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.29-07.15.40:764][935]LogSavePackage: Save=157.59ms
+[2018.03.29-07.15.40:764][935]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Login95380089463F7BFD893A83808D44B721.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap'
+[2018.03.29-07.15.40:766][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap
+[2018.03.29-07.15.40:804][935]LogFileHelpers: Saving map 'Login' took 0.362
+[2018.03.29-07.16.36:912][272]BlueprintLog: New page: Compile Login
+[2018.03.29-07.16.37:582][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Login" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.29-07.16.37:784][292]LogSavePackage: Save=156.96ms
+[2018.03.29-07.16.37:784][292]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Login7CFAFC9B452E739B4F8B56BBAA2E4C02.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap'
+[2018.03.29-07.16.37:785][292]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap
+[2018.03.29-07.16.37:821][292]LogFileHelpers: Saving map 'Login' took 0.354
+[2018.03.29-07.16.38:390][324]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.16.38:428][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.16.38:429][324]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.29-07.16.38:430][324]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2018.03.29-07.16.38:467][324]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2018.03.29-07.16.38:467][324]PIE: New page: PIE session: Login (Mar 29, 2018, 1:16:38 PM)
+[2018.03.29-07.16.38:474][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.16.38:475][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001163s)
+[2018.03.29-07.16.38:476][324]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.16.38:476][324]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.03.29-07.16.38:476][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002561s)
+[2018.03.29-07.16.38:511][324]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.16.38:553][324]LogInit: FAudioDevice initialized.
+[2018.03.29-07.16.38:590][324]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.16.38:591][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.16.38
+[2018.03.29-07.16.38:591][324]LogWorld: Bringing up level for play took: 0.000705
+[2018.03.29-07.16.38:592][324]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.16.38:593][324]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:00BD
+[2018.03.29-07.16.38:594][324]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.16.38:595][324]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.622
+[2018.03.29-07.16.38:595][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.16.40:942][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.16.40:984][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.17.03:815][812]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-07.17.15:677][520]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.17.16:397][552]LogSavePackage: Save=55.10ms
+[2018.03.29-07.17.16:397][552]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance64F5028144113A10E67B22A4A965910F.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.17.16:399][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.17.17:339][608]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.17.17:373][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.17.17:373][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.17.17:373][608]PIE: New page: PIE session: Login (Mar 29, 2018, 1:17:17 PM)
+[2018.03.29-07.17.17:386][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.17.17:386][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000848s)
+[2018.03.29-07.17.17:387][608]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.17.17:387][608]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2018.03.29-07.17.17:387][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.001939s)
+[2018.03.29-07.17.17:427][608]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.17.17:468][608]LogInit: FAudioDevice initialized.
+[2018.03.29-07.17.17:506][608]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.17.17:507][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.17.17
+[2018.03.29-07.17.17:507][608]LogWorld: Bringing up level for play took: 0.000578
+[2018.03.29-07.17.17:507][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.17.17:509][608]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:00BD
+[2018.03.29-07.17.17:510][608]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.17.17:513][608]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.296
+[2018.03.29-07.17.17:514][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.17.18:960][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.17.18:996][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.18.24:725][620]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.18.40:082][530]LogSavePackage: Save=55.06ms
+[2018.03.29-07.18.40:082][530]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance9B2F8DBD48455075E22348AA8DB70228.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.18.40:084][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.18.41:223][598]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.18.41:261][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.18.41:262][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.18.41:262][598]PIE: New page: PIE session: Login (Mar 29, 2018, 1:18:41 PM)
+[2018.03.29-07.18.41:267][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.18.41:268][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000931s)
+[2018.03.29-07.18.41:269][598]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.18.41:269][598]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2018.03.29-07.18.41:269][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002500s)
+[2018.03.29-07.18.41:307][598]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.18.41:353][598]LogInit: FAudioDevice initialized.
+[2018.03.29-07.18.41:395][598]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.18.41:396][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.18.41
+[2018.03.29-07.18.41:396][598]LogWorld: Bringing up level for play took: 0.000699
+[2018.03.29-07.18.41:397][598]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.18.41:398][598]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.18.41:398][598]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.18.41:401][598]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.184
+[2018.03.29-07.18.41:401][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.18.43:166][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.18.43:201][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.44:883][384]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.19.45:500][410]LogSavePackage: Save=53.47ms
+[2018.03.29-07.19.45:500][410]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceB6CDE49B469C4BEE3DBD8E90874DDA6A.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.19.45:502][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.19.46:151][449]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.19.46:183][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.46:183][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.19.46:184][449]PIE: New page: PIE session: Login (Mar 29, 2018, 1:19:46 PM)
+[2018.03.29-07.19.46:190][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.19.46:191][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001109s)
+[2018.03.29-07.19.46:192][449]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.19.46:192][449]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2018.03.29-07.19.46:192][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002761s)
+[2018.03.29-07.19.46:229][449]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.19.46:272][449]LogInit: FAudioDevice initialized.
+[2018.03.29-07.19.46:312][449]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.19.46:313][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.19.46
+[2018.03.29-07.19.46:313][449]LogWorld: Bringing up level for play took: 0.000644
+[2018.03.29-07.19.46:313][449]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.19.46:315][449]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.19.46:316][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.19.46:318][449]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 1.101
+[2018.03.29-07.19.46:319][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.47:916][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.47:956][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.50:024][659]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.19.50:622][683]LogSavePackage: Save=53.67ms
+[2018.03.29-07.19.50:622][683]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance2B01FDA74200C73A6E4771B8F7253215.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.19.50:623][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.19.51:220][719]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.19.51:253][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.51:253][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.19.51:254][719]PIE: New page: PIE session: Login (Mar 29, 2018, 1:19:51 PM)
+[2018.03.29-07.19.51:259][719]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.19.51:261][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001160s)
+[2018.03.29-07.19.51:261][719]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.19.51:262][719]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.03.29-07.19.51:262][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002512s)
+[2018.03.29-07.19.51:295][719]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.19.51:337][719]LogInit: FAudioDevice initialized.
+[2018.03.29-07.19.51:376][719]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.19.51:377][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.19.51
+[2018.03.29-07.19.51:377][719]LogWorld: Bringing up level for play took: 0.000624
+[2018.03.29-07.19.51:377][719]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.19.51:380][719]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.19.51:380][719]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.19.51:383][719]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.166
+[2018.03.29-07.19.51:384][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.53:003][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.19.53:044][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.20.26:403][791]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.20.27:025][817]LogSavePackage: Save=53.60ms
+[2018.03.29-07.20.27:025][817]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance8EC8036746CEE01D4752E4960140A63F.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.20.27:027][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.20.27:709][858]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.20.27:743][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.20.27:744][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.20.27:744][858]PIE: New page: PIE session: Login (Mar 29, 2018, 1:20:27 PM)
+[2018.03.29-07.20.27:749][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.20.27:750][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000887s)
+[2018.03.29-07.20.27:750][858]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.20.27:751][858]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.03.29-07.20.27:751][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002362s)
+[2018.03.29-07.20.27:787][858]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.20.27:831][858]LogInit: FAudioDevice initialized.
+[2018.03.29-07.20.27:876][858]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.20.27:877][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.20.27
+[2018.03.29-07.20.27:877][858]LogWorld: Bringing up level for play took: 0.000623
+[2018.03.29-07.20.27:877][858]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.20.27:879][858]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.20.27:879][858]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.20.27:882][858]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.665
+[2018.03.29-07.20.27:882][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.20.29:444][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.20.29:481][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.17:856][830]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.21.18:719][875]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.21.18:753][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.18:753][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.21.18:753][875]PIE: New page: PIE session: Login (Mar 29, 2018, 1:21:18 PM)
+[2018.03.29-07.21.18:759][875]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.21.18:760][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000994s)
+[2018.03.29-07.21.18:761][875]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.21.18:761][875]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2018.03.29-07.21.18:761][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002578s)
+[2018.03.29-07.21.18:802][875]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.21.18:843][875]LogInit: FAudioDevice initialized.
+[2018.03.29-07.21.18:884][875]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.21.18:885][875]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.21.18
+[2018.03.29-07.21.18:886][875]LogWorld: Bringing up level for play took: 0.000838
+[2018.03.29-07.21.18:886][875]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.21.18:889][875]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:008B
+[2018.03.29-07.21.18:889][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.21.18:892][875]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.325
+[2018.03.29-07.21.18:893][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.20:338][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.20:372][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.30:987][582]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.21.32:264][652]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.21.32:298][652]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.32:299][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.21.32:299][652]PIE: New page: PIE session: Login (Mar 29, 2018, 1:21:32 PM)
+[2018.03.29-07.21.32:304][652]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.21.32:305][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000947s)
+[2018.03.29-07.21.32:305][652]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.21.32:306][652]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.03.29-07.21.32:306][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002191s)
+[2018.03.29-07.21.32:345][652]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.21.32:393][652]LogInit: FAudioDevice initialized.
+[2018.03.29-07.21.32:431][652]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.21.32:432][652]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.21.32
+[2018.03.29-07.21.32:433][652]LogWorld: Bringing up level for play took: 0.000737
+[2018.03.29-07.21.32:433][652]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.21.32:434][652]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 32:434 ) - ewfae
+[2018.03.29-07.21.32:435][652]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:01CF
+[2018.03.29-07.21.32:435][652]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.21.32:438][652]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.779
+[2018.03.29-07.21.32:439][652]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.34:134][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.34:174][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.52:411][828]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.21.53:139][865]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.21.53:173][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.53:174][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.21.53:174][865]PIE: New page: PIE session: Login (Mar 29, 2018, 1:21:53 PM)
+[2018.03.29-07.21.53:180][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.21.53:181][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
+[2018.03.29-07.21.53:182][865]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.21.53:182][865]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.03.29-07.21.53:182][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002516s)
+[2018.03.29-07.21.53:216][865]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.21.53:256][865]LogInit: FAudioDevice initialized.
+[2018.03.29-07.21.53:299][865]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.21.53:300][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.21.53
+[2018.03.29-07.21.53:300][865]LogWorld: Bringing up level for play took: 0.000562
+[2018.03.29-07.21.53:301][865]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.21.53:302][865]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 53:302 ) - 
+[2018.03.29-07.21.53:303][865]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.21.53:303][865]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.21.53:306][865]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.089
+[2018.03.29-07.21.53:307][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.54:801][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.21.54:839][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.17:564][476]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.24.18:255][503]LogSavePackage: Save=99.24ms
+[2018.03.29-07.24.18:255][503]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance498BE4154B892D09D9E95681514AA32F.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.24.18:257][503]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.24.21:295][685]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.24.21:329][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.21:330][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.24.21:330][685]PIE: New page: PIE session: Login (Mar 29, 2018, 1:24:21 PM)
+[2018.03.29-07.24.21:336][685]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.24.21:337][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000995s)
+[2018.03.29-07.24.21:337][685]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.24.21:338][685]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.03.29-07.24.21:338][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002379s)
+[2018.03.29-07.24.21:377][685]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.24.21:423][685]LogInit: FAudioDevice initialized.
+[2018.03.29-07.24.21:463][685]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.24.21:464][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.24.21
+[2018.03.29-07.24.21:464][685]LogWorld: Bringing up level for play took: 0.000724
+[2018.03.29-07.24.21:464][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.24.21:467][685]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009F
+[2018.03.29-07.24.21:467][685]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.24.21:472][685]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.254
+[2018.03.29-07.24.21:473][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.23:030][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.23:068][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.25:329][897]LogEditorTransaction: Undo Move Nodes
+[2018.03.29-07.24.26:079][937]LogEditorTransaction: Undo Move Node
+[2018.03.29-07.24.26:313][949]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.26:587][963]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.26:855][977]LogEditorTransaction: Undo Delete current selection
+[2018.03.29-07.24.27:065][987]LogEditorTransaction: Undo Break Pin Link
+[2018.03.29-07.24.27:320][  0]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.27:554][ 12]LogEditorTransaction: Undo Create Reroute Node
+[2018.03.29-07.24.27:940][ 33]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.28:189][ 48]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.28:405][ 59]LogEditorTransaction: Undo Move Node
+[2018.03.29-07.24.28:606][ 69]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.28:872][ 83]LogEditorTransaction: Undo Move Node
+[2018.03.29-07.24.29:256][104]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.29:638][125]LogEditorTransaction: Undo Move Node
+[2018.03.29-07.24.30:040][147]LogEditorTransaction: Undo Move Node
+[2018.03.29-07.24.30:303][161]LogEditorTransaction: Undo Paste clipboard contents
+[2018.03.29-07.24.30:510][171]LogEditorTransaction: Undo Delete current selection
+[2018.03.29-07.24.31:293][216]LogEditorTransaction: Undo Paste clipboard contents
+[2018.03.29-07.24.31:649][235]LogEditorTransaction: Undo Move Nodes
+[2018.03.29-07.24.33:802][362]LogEditorTransaction: Undo Move Node
+[2018.03.29-07.24.34:200][384]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.34:566][404]LogEditorTransaction: Undo Create Pin Link
+[2018.03.29-07.24.34:913][423]LogEditorTransaction: Undo Move Node
+[2018.03.29-07.24.35:362][448]LogEditorTransaction: Undo Change Pure
+[2018.03.29-07.24.44:900][ 12]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.24.45:474][ 34]LogSavePackage: Save=54.32ms
+[2018.03.29-07.24.45:474][ 34]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceDD2F6A4C463F677B6543E9993A100843.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.24.45:476][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.24.46:269][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.24.46:299][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.46:299][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.24.46:299][ 80]PIE: New page: PIE session: Login (Mar 29, 2018, 1:24:46 PM)
+[2018.03.29-07.24.46:301][ 80]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_184 or K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_184
+[2018.03.29-07.24.46:301][ 80]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_98 or K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_98
+[2018.03.29-07.24.46:306][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.24.46:308][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001195s)
+[2018.03.29-07.24.46:308][ 80]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.24.46:309][ 80]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.03.29-07.24.46:309][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002522s)
+[2018.03.29-07.24.46:343][ 80]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.24.46:383][ 80]LogInit: FAudioDevice initialized.
+[2018.03.29-07.24.46:427][ 80]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.24.46:428][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.24.46
+[2018.03.29-07.24.46:428][ 80]LogWorld: Bringing up level for play took: 0.000611
+[2018.03.29-07.24.46:428][ 80]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.24.46:430][ 80]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.24.46:430][ 80]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.24.46:434][ 80]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.784
+[2018.03.29-07.24.46:434][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.47:780][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.24.47:813][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.12:328][605]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.25.13:068][628]LogSavePackage: Save=57.51ms
+[2018.03.29-07.25.13:068][628]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceF7CA076D4AADB6B437AE8D8731B1EE92.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.25.13:070][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.25.13:795][671]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.25.13:834][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.13:835][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.25.13:835][671]PIE: New page: PIE session: Login (Mar 29, 2018, 1:25:13 PM)
+[2018.03.29-07.25.13:836][671]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_184 or K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_184
+[2018.03.29-07.25.13:836][671]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_98 or K2Node_CallFunction /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance:EventGraph.K2Node_CallFunction_98
+[2018.03.29-07.25.13:840][671]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.25.13:841][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000944s)
+[2018.03.29-07.25.13:842][671]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.25.13:842][671]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2018.03.29-07.25.13:843][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002195s)
+[2018.03.29-07.25.13:881][671]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.25.13:926][671]LogInit: FAudioDevice initialized.
+[2018.03.29-07.25.13:968][671]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.25.13:969][671]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.25.13
+[2018.03.29-07.25.13:969][671]LogWorld: Bringing up level for play took: 0.000768
+[2018.03.29-07.25.13:970][671]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.25.13:972][671]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.25.13:972][671]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.25.13:975][671]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.758
+[2018.03.29-07.25.13:975][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.15:330][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.15:368][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.50:372][840]BlueprintLog: New page: Compile Login
+[2018.03.29-07.25.51:005][865]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.25.51:037][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.51:037][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.25.51:037][865]PIE: New page: PIE session: Login (Mar 29, 2018, 1:25:51 PM)
+[2018.03.29-07.25.51:037][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.25.51:039][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001209s)
+[2018.03.29-07.25.51:039][865]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.25.51:040][865]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2018.03.29-07.25.51:040][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002539s)
+[2018.03.29-07.25.51:075][865]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.25.51:117][865]LogInit: FAudioDevice initialized.
+[2018.03.29-07.25.51:160][865]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.25.51:161][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.25.51
+[2018.03.29-07.25.51:161][865]LogWorld: Bringing up level for play took: 0.000702
+[2018.03.29-07.25.51:162][865]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.25.51:164][865]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_1
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.25.51:164][865]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.25.51:165][865]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.052
+[2018.03.29-07.25.51:166][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.52:670][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.52:732][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.55:838][133]BlueprintLog: New page: Compile Login
+[2018.03.29-07.25.56:514][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Login" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.29-07.25.56:756][153]LogSavePackage: Save=197.05ms
+[2018.03.29-07.25.56:757][153]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/LoginA1BB34D94EDD95DF9C0E4DA42D790523.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap'
+[2018.03.29-07.25.56:758][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap
+[2018.03.29-07.25.56:789][153]LogFileHelpers: Saving map 'Login' took 0.391
+[2018.03.29-07.25.56:944][160]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.25.56:973][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.56:973][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.25.56:974][160]PIE: New page: PIE session: Login (Mar 29, 2018, 1:25:56 PM)
+[2018.03.29-07.25.56:974][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.25.56:975][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000821s)
+[2018.03.29-07.25.56:975][160]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.25.56:976][160]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.03.29-07.25.56:976][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.001964s)
+[2018.03.29-07.25.57:008][160]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.25.57:048][160]LogInit: FAudioDevice initialized.
+[2018.03.29-07.25.57:090][160]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.25.57:091][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.25.57
+[2018.03.29-07.25.57:091][160]LogWorld: Bringing up level for play took: 0.000636
+[2018.03.29-07.25.57:091][160]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.25.57:093][160]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_2
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.25.57:093][160]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.25.57:095][160]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.122
+[2018.03.29-07.25.57:096][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.57:832][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.25.57:888][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.27.21:610][197]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.27.22:231][222]LogSavePackage: Save=53.37ms
+[2018.03.29-07.27.22:231][222]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceE8746FC94F3A8F179AE5DF97E7801116.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.27.22:232][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.27.24:026][330]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.27.24:058][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.27.24:059][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.27.24:059][330]PIE: New page: PIE session: Login (Mar 29, 2018, 1:27:24 PM)
+[2018.03.29-07.27.24:066][330]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.27.24:067][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001248s)
+[2018.03.29-07.27.24:068][330]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.27.24:068][330]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.03.29-07.27.24:068][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002848s)
+[2018.03.29-07.27.24:109][330]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.27.24:152][330]LogInit: FAudioDevice initialized.
+[2018.03.29-07.27.24:187][330]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.27.24:188][330]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.27.24
+[2018.03.29-07.27.24:188][330]LogWorld: Bringing up level for play took: 0.000579
+[2018.03.29-07.27.24:189][330]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.27.24:191][330]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.27.24:191][330]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.27.24:192][330]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.975
+[2018.03.29-07.27.24:193][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.27.25:577][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.27.25:617][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.29:132][203]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.28.29:761][229]LogSavePackage: Save=61.46ms
+[2018.03.29-07.28.29:761][229]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceDFF69DDD43FAF4F0C619708F365541A1.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.28.29:765][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.28.32:620][400]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.28.32:658][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.32:658][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.28.32:659][400]PIE: New page: PIE session: Login (Mar 29, 2018, 1:28:32 PM)
+[2018.03.29-07.28.32:664][400]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.28.32:665][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001345s)
+[2018.03.29-07.28.32:666][400]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.28.32:666][400]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2018.03.29-07.28.32:666][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002715s)
+[2018.03.29-07.28.32:703][400]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.28.32:745][400]LogInit: FAudioDevice initialized.
+[2018.03.29-07.28.32:784][400]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.28.32:786][400]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.28.32
+[2018.03.29-07.28.32:786][400]LogWorld: Bringing up level for play took: 0.000876
+[2018.03.29-07.28.32:786][400]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.28.32:788][400]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.28.32:789][400]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.28.32:791][400]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.426
+[2018.03.29-07.28.32:791][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.33:977][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.34:014][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.43:399][ 18]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.28.44:300][ 62]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.28.44:340][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.44:340][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.28.44:340][ 62]PIE: New page: PIE session: Login (Mar 29, 2018, 1:28:44 PM)
+[2018.03.29-07.28.44:347][ 62]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.28.44:348][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000820s)
+[2018.03.29-07.28.44:349][ 62]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.28.44:349][ 62]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.03.29-07.28.44:349][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002094s)
+[2018.03.29-07.28.44:395][ 62]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.28.44:449][ 62]LogInit: FAudioDevice initialized.
+[2018.03.29-07.28.44:495][ 62]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.28.44:496][ 62]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.28.44
+[2018.03.29-07.28.44:496][ 62]LogWorld: Bringing up level for play took: 0.000756
+[2018.03.29-07.28.44:496][ 62]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.28.44:498][ 62]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.28.44:498][ 62]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.28.44:501][ 62]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.716
+[2018.03.29-07.28.44:502][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.45:151][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.45:207][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.49:072][311]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.28.49:763][339]LogSavePackage: Save=65.41ms
+[2018.03.29-07.28.49:763][339]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance641A4A2842B5D57D38990192F6509DD4.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.28.49:765][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.28.50:434][379]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.28.50:465][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.50:465][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.28.50:465][379]PIE: New page: PIE session: Login (Mar 29, 2018, 1:28:50 PM)
+[2018.03.29-07.28.50:470][379]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.28.50:471][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001128s)
+[2018.03.29-07.28.50:472][379]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.28.50:472][379]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.03.29-07.28.50:472][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002381s)
+[2018.03.29-07.28.50:507][379]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.28.50:550][379]LogInit: FAudioDevice initialized.
+[2018.03.29-07.28.50:592][379]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.28.50:593][379]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.28.50
+[2018.03.29-07.28.50:593][379]LogWorld: Bringing up level for play took: 0.000613
+[2018.03.29-07.28.50:594][379]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.28.50:595][379]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.28.50:596][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.28.50:598][379]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.619
+[2018.03.29-07.28.50:599][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.51:161][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.28.51:221][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.31.15:799][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/FStructPage" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/FStructPage.uasset" SILENT=true
+[2018.03.29-07.31.15:804][ 45]LogSavePackage: Save=3.54ms
+[2018.03.29-07.31.15:804][ 45]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/FStructPageD504715B49E37DFE207DAE833E77DEC0.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/FStructPage.uasset'
+[2018.03.29-07.31.15:806][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/FStructPage.uasset
+[2018.03.29-07.33.20:050][271]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.33.20:082][271]LogBlueprint: Error: [Compiler CW_GameInstance] In use pin  Pages  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.29-07.33.20:085][271]LogClass: Warning: Type mismatch in Pages of CW_GameInstance_C - Previous (MapProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.03.29-07.33.20:132][271]LogBlueprint: Warning: [Compiler CW_GameInstance] [4014.52] Compile of CW_GameInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 82 ms] (/Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance)
+[2018.03.29-07.34.39:237][998]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.34.39:903][ 23]LogSavePackage: Save=111.25ms
+[2018.03.29-07.34.39:903][ 23]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance59A75CB64339C23F5ED0D19A29B0F303.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.34.39:904][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.34.40:865][ 81]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.34.40:909][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.34.40:909][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.34.40:910][ 81]PIE: New page: PIE session: Login (Mar 29, 2018, 1:34:40 PM)
+[2018.03.29-07.34.40:917][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.34.40:918][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001209s)
+[2018.03.29-07.34.40:919][ 81]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.34.40:919][ 81]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2018.03.29-07.34.40:919][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002582s)
+[2018.03.29-07.34.40:959][ 81]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.34.41:003][ 81]LogInit: FAudioDevice initialized.
+[2018.03.29-07.34.41:043][ 81]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.34.41:044][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.34.41
+[2018.03.29-07.34.41:045][ 81]LogWorld: Bringing up level for play took: 0.000961
+[2018.03.29-07.34.41:045][ 81]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.34.41:047][ 81]LogScript: Warning: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+	CW_GameInstance_C /Engine/Transient.UnrealEdEngine_0:CW_GameInstance_C_0
+	Function /Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance_C:ExecuteUbergraph_CW_GameInstance:009B
+[2018.03.29-07.34.41:047][ 81]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetWidgetPage_Value from function: 'ExecuteUbergraph_CW_GameInstance' from node: Add to Viewport in graph: EventGraph in object: CW_GameInstance with description: Accessed None trying to read property CallFunc_GetWidgetPage_Value
+[2018.03.29-07.34.41:049][ 81]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.168
+[2018.03.29-07.34.41:050][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.34.42:265][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.34.42:301][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.06:341][585]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.35.06:970][610]LogSavePackage: Save=62.30ms
+[2018.03.29-07.35.06:970][610]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceA25F456D469D2F6E1894018BD99F557E.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.35.06:971][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.35.07:415][637]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.35.07:448][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.07:448][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.35.07:449][637]PIE: New page: PIE session: Login (Mar 29, 2018, 1:35:07 PM)
+[2018.03.29-07.35.07:454][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.35.07:455][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000906s)
+[2018.03.29-07.35.07:456][637]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.35.07:456][637]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2018.03.29-07.35.07:456][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002242s)
+[2018.03.29-07.35.07:493][637]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.35.07:534][637]LogInit: FAudioDevice initialized.
+[2018.03.29-07.35.07:571][637]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.35.07:572][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.35.07
+[2018.03.29-07.35.07:573][637]LogWorld: Bringing up level for play took: 0.000652
+[2018.03.29-07.35.07:573][637]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.35.07:577][637]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.359
+[2018.03.29-07.35.07:577][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.09:095][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.09:131][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.30:530][997]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-07.35.31:101][ 18]LogSavePackage: Save=71.83ms
+[2018.03.29-07.35.31:101][ 18]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance08F31C2648008A5A89805EBA29673240.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-07.35.31:104][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-07.35.33:578][166]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.35.33:622][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.33:622][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.35.33:622][166]PIE: New page: PIE session: Login (Mar 29, 2018, 1:35:33 PM)
+[2018.03.29-07.35.33:629][166]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.35.33:630][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001305s)
+[2018.03.29-07.35.33:631][166]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.35.33:632][166]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2018.03.29-07.35.33:632][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002835s)
+[2018.03.29-07.35.33:675][166]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.35.33:719][166]LogInit: FAudioDevice initialized.
+[2018.03.29-07.35.33:755][166]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.35.33:758][166]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.35.33
+[2018.03.29-07.35.33:759][166]LogWorld: Bringing up level for play took: 0.002423
+[2018.03.29-07.35.33:759][166]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.35.33:763][166]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.546
+[2018.03.29-07.35.33:764][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.35:700][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.35:757][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.38:629][444]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-07.35.38:667][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.38:667][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-07.35.38:668][444]PIE: New page: PIE session: Login (Mar 29, 2018, 1:35:38 PM)
+[2018.03.29-07.35.38:668][444]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-07.35.38:669][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000930s)
+[2018.03.29-07.35.38:670][444]LogAIModule: Creating AISystem for world Login
+[2018.03.29-07.35.38:671][444]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2018.03.29-07.35.38:671][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.003030s)
+[2018.03.29-07.35.38:709][444]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-07.35.38:751][444]LogInit: FAudioDevice initialized.
+[2018.03.29-07.35.38:792][444]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-07.35.38:793][444]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-10.35.38
+[2018.03.29-07.35.38:793][444]LogWorld: Bringing up level for play took: 0.000575
+[2018.03.29-07.35.38:794][444]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-07.35.38:797][444]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.42
+[2018.03.29-07.35.38:798][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.41:297][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.41:338][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-07.35.48:626][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Common/Title" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset" SILENT=true
+[2018.03.29-07.35.48:701][951]LogSavePackage: Save=62.40ms
+[2018.03.29-07.35.48:701][951]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Title0CD41FAB45093D1DB32C6DA79708750C.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset'
+[2018.03.29-07.35.48:703][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/UI/Common/Title.uasset
+[2018.03.29-07.39.20:535][801]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2018.03.29-07.39.44:739][801]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2018.03.29-07.39.44:946][801]LogWindows: Error: === Critical error: ===
+[2018.03.29-07.39.44:946][801]LogWindows: Error: 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 813] 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: Rendering thread exception:
+[2018.03.29-07.39.44:946][801]LogWindows: Error: Assertion failed: IsValidRef(GBufferResourcesUniformBuffer) [File:d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\renderer\private\PostProcess/SceneRenderTargets.h] [Line: 454] 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: GBuffer required but not available. Failure often caused by incorrect custom code use in a post processing material.
+[2018.03.29-07.39.44:946][801]LogWindows: Error: 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x0000000039584008 KERNELBASE.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x000000001F5D76D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x000000000774330B UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000076D47F9 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F275AA52 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2AD1357 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2C0E271 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2C8DEC7 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2BC000A UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2BBD29D UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2A34DCA UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F280B16C UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2D3E9A4 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000F2D1DA76 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000075A4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x00000000075A4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x0000000026F222C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x0000000026F232F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x000000000794092C UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x0000000007932563 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x000000003CCC1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x000000003D17EFC1 ntdll.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: [Callstack] 0x000000003D17EFC1 ntdll.dll!UnknownFunction []
+[2018.03.29-07.39.44:946][801]LogWindows: Error: 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: 
+[2018.03.29-07.39.44:946][801]LogWindows: Error: 
+[2018.03.29-07.39.45:014][801]LogExit: Executing StaticShutdownAfterError
+[2018.03.29-07.39.48:041][801]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.03.29-07.39.48:194][801]Log file closed, 03/29/18 10:39:48

@@ -1,0 +1,1031 @@
+﻿Log file open, 03/29/18 22:29:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CyberWar
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2091590549) SRandInit(2091590549).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.142216
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin LowEntrySocketConnection
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Binaries/Win64/UE4Editor-CyberWar-1134.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibraryEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntrySocketConnection/Binaries/Win64/UE4Editor-LowEntrySocketConnection.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestEditorPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: F:/Soft/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.29-19.29.21:370][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-19.29.21:370][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.29-19.29.21:455][  0]LogInit: Computer: DESKTOP-38OIRC4
+[2018.03.29-19.29.21:455][  0]LogInit: User: root
+[2018.03.29-19.29.21:455][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.29-19.29.21:455][  0]LogInit: High frequency timer resolution =2.825500 MHz
+[2018.03.29-19.29.21:456][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.03.29-19.29.21:456][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.29-19.29.21:456][  0]LogMemory: Process Physical Memory: 270.90 MB used, 270.90 MB peak
+[2018.03.29-19.29.21:456][  0]LogMemory: Process Virtual Memory: 267.35 MB used, 267.35 MB peak
+[2018.03.29-19.29.21:456][  0]LogMemory: Physical Memory: 4106.05 MB used,  4003.24 MB free, 8109.29 MB total
+[2018.03.29-19.29.21:456][  0]LogMemory: Virtual Memory: 664.63 MB used,  4003.24 MB free, 134217728.00 MB total
+[2018.03.29-19.29.22:214][  0]LogInit: Using OS detected language (ru-RU).
+[2018.03.29-19.29.22:214][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.03.29-19.29.22:598][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.03.29-19.29.22:598][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.03.29-19.29.23:652][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.29-19.29.27:920][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.29-19.29.28:026][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2018.03.29-19.29.28:026][  0]LogD3D11RHI:       2020/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.29-19.29.28:162][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.29-19.29.28:162][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.29-19.29.28:164][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.29-19.29.28:164][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.29-19.29.28:164][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.29-19.29.28:186][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.29-19.29.28:194][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.29-19.29.28:194][  0]LogWindows: EnumDisplayDevices:
+[2018.03.29-19.29.28:194][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.03.29-19.29.28:194][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.29-19.29.28:194][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.29-19.29.28:195][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.29-19.29.28:195][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2018.03.29-19.29.28:195][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.29-19.29.28:195][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.29-19.29.28:195][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.03.29-19.29.28:254][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.29-19.29.28:437][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 6)
+[2018.03.29-19.29.28:527][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Intermediate/Shaders/WorkingDirectory/3756/).
+[2018.03.29-19.29.28:527][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/root/AppData/Local/Temp/UnrealShaderWorkingDir/AD12475A4F72E769B96B3398F81C9207/'.
+[2018.03.29-19.29.28:532][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.29-19.29.33:740][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.29-19.29.33:790][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.29-19.29.33:876][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.29-19.29.33:943][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.29-19.29.34:041][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.29-19.29.34:124][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.29-19.29.34:175][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.29-19.29.34:232][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.29-19.29.34:271][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.29-19.29.34:347][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.29-19.29.34:413][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.29-19.29.34:467][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.29-19.29.34:520][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.29-19.29.34:579][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.29-19.29.34:683][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.29-19.29.34:683][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.29-19.29.34:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.29-19.29.34:811][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.29-19.29.34:956][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.29-19.29.34:986][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.29-19.29.35:147][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.29-19.29.35:254][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.29-19.29.35:358][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.29-19.29.35:506][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.29-19.29.35:506][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.29-19.29.36:543][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.29-19.29.37:675][  0]LogDerivedDataCache: Loaded boot cache 1.11s 84MB C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.29-19.29.37:675][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.29-19.29.37:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.29-19.29.37:675][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.29-19.29.37:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.29-19.29.37:675][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.29-19.29.37:748][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.29-19.29.37:761][  0]LogDerivedDataCache: Using Local data cache path C:/Users/root/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.29-19.29.37:807][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.29-19.29.37:900][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.29-19.29.38:037][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-19.29.38:037][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-19.29.45:289][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-19.29.47:653][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.29-19.29.47:717][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.29-19.29.47:724][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.29-19.29.47:725][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.29-19.29.47:725][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.29-19.29.47:725][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.29-19.29.48:041][  0]LogNetVersion: CyberWar , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2311747216)
+[2018.03.29-19.29.49:339][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.03.29-19.30.05:961][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.352723 seconds
+[2018.03.29-19.30.06:001][  0]LogUObjectArray: 35346 objects as part of root set at end of initial load.
+[2018.03.29-19.30.06:001][  0]LogUObjectAllocator: 7033888 out of 0 bytes used by permanent object pool.
+[2018.03.29-19.30.06:001][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.29-19.30.06:095][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.29-19.30.40:068][  0]LogInit: Using libcurl 7.47.1
+[2018.03.29-19.30.40:068][  0]LogInit:  - built for x86_64-pc-win32
+[2018.03.29-19.30.40:068][  0]LogInit:  - supports SSL with OpenSSL/1.0.2g
+[2018.03.29-19.30.40:068][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.03.29-19.30.40:068][  0]LogInit:  - other features:
+[2018.03.29-19.30.40:068][  0]LogInit:      CURL_VERSION_SSL
+[2018.03.29-19.30.40:071][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.03.29-19.30.40:071][  0]LogInit:      CURL_VERSION_IPV6
+[2018.03.29-19.30.40:071][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.03.29-19.30.40:071][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.03.29-19.30.40:071][  0]LogInit:      CURL_VERSION_IDN
+[2018.03.29-19.30.40:073][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.03.29-19.30.40:074][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2018.03.29-19.30.40:074][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.03.29-19.30.40:074][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.03.29-19.30.40:074][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2018.03.29-19.30.40:160][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.29-19.30.40:205][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.29-19.30.42:198][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.03.29-19.30.42:240][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.42:240][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.42:409][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.29-19.30.42:502][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.03.29-19.30.42:503][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.42:503][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.42:595][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.03.29-19.30.42:596][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.42:596][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.42:668][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.03.29-19.30.42:668][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.42:668][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.42:706][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.03.29-19.30.42:707][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.42:707][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.42:749][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.03.29-19.30.42:749][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.42:749][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.43:058][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.03.29-19.30.43:059][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.43:059][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.43:123][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.03.29-19.30.43:123][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.43:123][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.43:186][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.03.29-19.30.43:186][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.29-19.30.43:186][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.03.29-19.30.44:280][  0]SourceControl: Source control is disabled
+[2018.03.29-19.30.44:282][  0]SourceControl: Source control is disabled
+[2018.03.29-19.30.44:378][  0]SourceControl: Source control is disabled
+[2018.03.29-19.30.44:470][  0]SourceControl: Source control is disabled
+[2018.03.29-19.30.46:390][  0]LogOcInput: OculusInput pre-init called
+[2018.03.29-19.30.46:656][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.03.29-19.30.46:656][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.03.29-19.30.48:662][  0]LogEngine: Initializing Engine...
+[2018.03.29-19.30.48:711][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.29-19.30.52:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.29-19.30.52:181][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.043 s
+[2018.03.29-19.30.53:094][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.29-19.30.53:142][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.30.53:206][  0]LogInit: FAudioDevice initialized.
+[2018.03.29-19.30.53:666][  0]LogDerivedDataCache: Saved boot cache 0.46s 84MB C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.29-19.30.53:686][  0]LogInit: Texture streaming: Enabled
+[2018.03.29-19.30.54:061][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.29-19.30.54:361][  0]LogInit: Transaction tracking system initialized
+[2018.03.29-19.30.55:681][  0]BlueprintLog: New page: Editor Load
+[2018.03.29-19.30.57:608][  0]LocalizationService: Localization service is disabled
+[2018.03.29-19.30.59:466][  0]LogConsoleResponse: Display: 
+[2018.03.29-19.31.05:252][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/' took 0.05s
+[2018.03.29-19.31.05:253][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.29-19.31.05:294][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.29-19.31.05:294][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.29-19.31.09:054][  0]SourceControl: Source control is disabled
+[2018.03.29-19.31.09:088][  0]Cmd: MAP LOAD FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.29-19.31.09:173][  0]LightingResults: New page: Lighting Build
+[2018.03.29-19.31.09:243][  0]MapCheck: New page: Map Check
+[2018.03.29-19.31.09:243][  0]LightingResults: New page: Lighting Build
+[2018.03.29-19.31.28:077][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.29-19.31.58:144][  0]LogAIModule: Creating AISystem for world Testing
+[2018.03.29-19.31.59:035][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.29-19.31.59:238][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.29-19.31.59:415][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 168.076ms to complete.
+[2018.03.29-19.31.59:418][  0]LogFileHelpers: Loading map 'Testing' took 50.348
+[2018.03.29-19.32.02:194][  0]LogCollectionManager: Loaded 0 collections in 0.002849 seconds
+[2018.03.29-19.32.03:343][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Collections/' took 0.01s
+[2018.03.29-19.32.03:343][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Developers/root/Collections/' took 0.01s
+[2018.03.29-19.32.03:343][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Collections/' took 0.01s
+[2018.03.29-19.32.03:343][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.29-19.32.03:524][  0]LogContentBrowser: Native class hierarchy populated in 0.1471 seconds. Added 2348 classes and 512 folders.
+[2018.03.29-19.32.03:896][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.03.29-19.32.08:148][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.03.29-19.32.08:240][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.03.29-19.32.08:483][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2018.03.29-19.32.10:672][  0]LogSlate: Took 0.020036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.29-19.32.10:688][  0]LogSlate: Took 0.014345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.29-19.32.10:721][  0]LogSlate: Took 0.016939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.29-19.32.11:669][  0]LogRenderer: Reallocating scene render targets to support 1148x584 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-19.32.14:159][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.03.29-19.32.14:159][  0]LogLoad: (Engine Initialization) Total time: 185.69 seconds
+[2018.03.29-19.32.14:159][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.29-19.32.14:173][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.29-19.32.14:173][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.29-19.32.14:440][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.29-19.32.15:217][  1]LogSlate: Took 0.020655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-19.32.16:202][  3]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-19.32.17:425][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0271 seconds. Added 116 classes and 0 folders.
+[2018.03.29-19.32.23:104][  3]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-19.32.23:112][  3]LogSlate: Took 0.008119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.29-19.32.24:457][ 37]LogAssetRegistry: Asset discovery search completed in 155.1405 seconds
+[2018.03.29-19.32.24:519][ 37]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.29-19.32.24:520][ 37]LogCollectionManager: Fixed up redirectors for 0 collections in 0.006489 seconds (updated 0 objects)
+[2018.03.29-19.32.26:297][ 59]LogSlate: Took 0.010608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.29-19.32.41:126][800]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-19.32.42:960][829]LogSavePackage: Save=222.51ms
+[2018.03.29-19.32.42:960][829]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceBAFEAB99490AD0C1EE354A93B38D9FD0.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-19.32.43:156][829]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-19.32.44:746][923]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.32.45:373][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.32.45:523][923]PIE: New page: PIE session: Testing (Mar 30, 2018, 1:32:45 AM)
+[2018.03.29-19.32.45:542][923]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing
+[2018.03.29-19.32.45:571][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028829s)
+[2018.03.29-19.32.45:571][923]LogAIModule: Creating AISystem for world Testing
+[2018.03.29-19.32.45:580][923]LogPlayLevel: PIE: World Init took: (0.009211s)
+[2018.03.29-19.32.45:590][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing.Testing to /Game/Maps/UEDPIE_0_Testing.Testing (0.047840s)
+[2018.03.29-19.32.45:690][923]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.32.45:690][923]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.32.45:713][923]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.32.45:761][923]LogInit: FAudioDevice initialized.
+[2018.03.29-19.32.46:117][923]LogLoad: Game class is 'CW_GameMode_C'
+[2018.03.29-19.32.46:124][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 60) at 2018.03.29-22.32.46
+[2018.03.29-19.32.46:248][923]LogWorld: Bringing up level for play took: 0.126443
+[2018.03.29-19.32.46:371][923]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Blueprints/Online/CW_GameMode.CW_GameMode_C:GetPlayerStart'!
+[2018.03.29-19.32.46:372][923]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Blueprints/Online/CW_GameMode.CW_GameMode_C:GetPlayerStart'!
+[2018.03.29-19.32.46:559][923]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.03.29-19.32.46:594][923]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.29-19.32.46:594][923]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.29-19.32.46:594][923]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.29-19.32.46:603][923]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Blueprints/Online/CW_GameMode.CW_GameMode_C:GetPlayerStart'!
+[2018.03.29-19.32.46:674][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:674][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:674][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(CharacterMesh0) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:674][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(CharacterMesh0) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:680][923]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 46:674 ) - Оружие прикреплено к владельцу
+[2018.03.29-19.32.46:684][923]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 46:684 ) - OnSelectedWeapon
+[2018.03.29-19.32.46:768][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:792][923]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 46:792 ) - Новый владелец
+[2018.03.29-19.32.46:915][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(CharacterMesh0) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:916][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:916][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(CharacterMesh0) Actor(CW_Character_C_0)
+[2018.03.29-19.32.46:916][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-19.32.47:142][923]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.29-19.32.47:178][923]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testing 1.961
+[2018.03.29-19.32.47:228][923]LogSkinnedMeshComp: Warning: GetSocketByName(Weapon): No SkeletalMesh for Component(Arms) Actor(CW_Character_C_0)
+[2018.03.29-19.32.48:346][923]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-19.32.48:427][924]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 48:427 ) - Анимации от 3-го лица загружены
+[2018.03.29-19.32.48:427][924]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] [ Weap_KnifeCombat_C_0 ]: ( 48:427 ) - Анимации от 1-го лица загружены
+[2018.03.29-19.33.08:718][751]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.33.08:866][751]Cmd: MAP LOAD FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.29-19.33.08:867][751]LightingResults: New page: Lighting Build
+[2018.03.29-19.33.08:867][751]LoadErrors: New page: Loading map: Login.umap
+[2018.03.29-19.33.08:975][751]MapCheck: New page: Map Check
+[2018.03.29-19.33.08:976][751]LightingResults: New page: Lighting Build
+[2018.03.29-19.33.09:275][751]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.29-19.33.09:365][751]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.29-19.33.09:495][751]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 130.392ms to complete.
+[2018.03.29-19.33.09:509][751]LogFileHelpers: Loading map 'Login' took 0.709
+[2018.03.29-19.33.09:517][751]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.29-19.33.10:321][786]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.33.10:423][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.33.10:423][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.33.10:423][786]PIE: New page: PIE session: Login (Mar 30, 2018, 1:33:10 AM)
+[2018.03.29-19.33.10:423][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.33.10:424][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000900s)
+[2018.03.29-19.33.10:425][786]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.33.10:426][786]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2018.03.29-19.33.10:426][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002290s)
+[2018.03.29-19.33.10:463][786]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.33.10:463][786]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.33.10:465][786]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.33.10:508][786]LogInit: FAudioDevice initialized.
+[2018.03.29-19.33.10:608][786]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.33.10:609][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.33.10
+[2018.03.29-19.33.10:609][786]LogWorld: Bringing up level for play took: 0.000684
+[2018.03.29-19.33.10:692][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.525
+[2018.03.29-19.33.10:693][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.33.18:674][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.33.18:713][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.36.29:101][288]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.36.29:198][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.36.29:198][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.36.29:199][288]PIE: New page: PIE session: Login (Mar 30, 2018, 1:36:29 AM)
+[2018.03.29-19.36.29:199][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.36.29:201][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2018.03.29-19.36.29:202][288]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.36.29:202][288]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2018.03.29-19.36.29:203][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.003765s)
+[2018.03.29-19.36.29:264][288]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.36.29:264][288]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.36.29:266][288]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.36.29:371][288]LogInit: FAudioDevice initialized.
+[2018.03.29-19.36.29:425][288]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.36.29:426][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.36.29
+[2018.03.29-19.36.29:427][288]LogWorld: Bringing up level for play took: 0.001247
+[2018.03.29-19.36.29:428][288]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.36.29:442][288]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.225
+[2018.03.29-19.36.29:443][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.36.42:444][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.36.42:481][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.38.19:529][791]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.38.19:654][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.38.19:654][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.38.19:654][791]PIE: New page: PIE session: Login (Mar 30, 2018, 1:38:19 AM)
+[2018.03.29-19.38.19:655][791]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.38.19:657][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002134s)
+[2018.03.29-19.38.19:659][791]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.38.19:659][791]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2018.03.29-19.38.19:660][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.005144s)
+[2018.03.29-19.38.19:755][791]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.38.19:755][791]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.38.19:757][791]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.38.19:859][791]LogInit: FAudioDevice initialized.
+[2018.03.29-19.38.19:907][791]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.38.19:908][791]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.38.19
+[2018.03.29-19.38.19:909][791]LogWorld: Bringing up level for play took: 0.000852
+[2018.03.29-19.38.19:909][791]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.38.19:928][791]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.71
+[2018.03.29-19.38.19:929][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.38.32:187][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.38.32:224][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.39.22:963][607]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-19.39.23:683][634]LogSavePackage: Save=84.90ms
+[2018.03.29-19.39.23:683][634]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceC4552C6D4B798CEAE84D3C9508F0664A.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-19.39.23:689][634]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-19.39.27:200][844]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.39.27:251][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.39.27:251][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.39.27:251][844]PIE: New page: PIE session: Login (Mar 30, 2018, 1:39:27 AM)
+[2018.03.29-19.39.27:260][844]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.39.27:261][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001101s)
+[2018.03.29-19.39.27:262][844]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.39.27:262][844]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.03.29-19.39.27:263][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002521s)
+[2018.03.29-19.39.27:301][844]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.39.27:301][844]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.39.27:303][844]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.39.27:345][844]LogInit: FAudioDevice initialized.
+[2018.03.29-19.39.27:452][844]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.39.27:453][844]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.39.27
+[2018.03.29-19.39.27:454][844]LogWorld: Bringing up level for play took: 0.000707
+[2018.03.29-19.39.27:454][844]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.39.27:462][844]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.245
+[2018.03.29-19.39.27:463][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.39.48:337][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.39.48:377][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.23:290][493]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-19.41.23:997][522]LogSavePackage: Save=89.11ms
+[2018.03.29-19.41.23:997][522]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceA96D3C344982D4325CDA52A83703FB9A.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-19.41.24:001][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-19.41.25:540][614]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.41.25:596][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.25:596][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.41.25:597][614]PIE: New page: PIE session: Login (Mar 30, 2018, 1:41:25 AM)
+[2018.03.29-19.41.25:603][614]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.41.25:604][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000868s)
+[2018.03.29-19.41.25:605][614]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.41.25:605][614]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2018.03.29-19.41.25:606][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002642s)
+[2018.03.29-19.41.25:650][614]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.41.25:651][614]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.41.25:652][614]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.41.25:706][614]LogInit: FAudioDevice initialized.
+[2018.03.29-19.41.25:749][614]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.41.25:750][614]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.41.25
+[2018.03.29-19.41.25:750][614]LogWorld: Bringing up level for play took: 0.000709
+[2018.03.29-19.41.25:751][614]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.41.25:763][614]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.546
+[2018.03.29-19.41.25:763][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.36:692][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.36:736][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.43:207][ 18]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-19.41.43:847][ 44]LogSavePackage: Save=86.78ms
+[2018.03.29-19.41.43:847][ 44]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance8375A3DB459E400F8F8556BBEC8227FE.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-19.41.43:914][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-19.41.45:173][119]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.41.45:224][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.45:224][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.41.45:225][119]PIE: New page: PIE session: Login (Mar 30, 2018, 1:41:45 AM)
+[2018.03.29-19.41.45:233][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.41.45:234][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000895s)
+[2018.03.29-19.41.45:235][119]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.41.45:235][119]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2018.03.29-19.41.45:235][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002331s)
+[2018.03.29-19.41.45:273][119]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.41.45:273][119]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.41.45:275][119]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.41.45:317][119]LogInit: FAudioDevice initialized.
+[2018.03.29-19.41.45:365][119]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.41.45:366][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.41.45
+[2018.03.29-19.41.45:367][119]LogWorld: Bringing up level for play took: 0.000712
+[2018.03.29-19.41.45:367][119]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.41.45:377][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.16
+[2018.03.29-19.41.45:377][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.56:387][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.41.56:422][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.42.05:433][778]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-19.42.06:123][806]LogSavePackage: Save=88.56ms
+[2018.03.29-19.42.06:124][806]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance9B8F4BD24CE2CE44386987B3268914F3.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-19.42.06:129][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-19.42.07:053][861]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.42.07:102][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.42.07:103][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.42.07:103][861]PIE: New page: PIE session: Login (Mar 30, 2018, 1:42:07 AM)
+[2018.03.29-19.42.07:112][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.42.07:113][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000865s)
+[2018.03.29-19.42.07:114][861]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.42.07:114][861]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2018.03.29-19.42.07:114][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002409s)
+[2018.03.29-19.42.07:161][861]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.42.07:161][861]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.42.07:163][861]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.42.07:207][861]LogInit: FAudioDevice initialized.
+[2018.03.29-19.42.07:258][861]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.42.07:259][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.42.07
+[2018.03.29-19.42.07:259][861]LogWorld: Bringing up level for play took: 0.000609
+[2018.03.29-19.42.07:259][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.42.07:266][861]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.049
+[2018.03.29-19.42.07:267][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.42.19:602][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.42.19:648][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.50.02:585][279]BlueprintLog: New page: Compile CW_GameInstance
+[2018.03.29-19.50.03:338][309]LogSavePackage: Save=90.25ms
+[2018.03.29-19.50.03:338][309]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance338F4B9841EF99FD43729F997C5FF7FC.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.03.29-19.50.03:343][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.03.29-19.50.03:884][341]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.50.03:944][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.50.03:944][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.50.03:944][341]PIE: New page: PIE session: Login (Mar 30, 2018, 1:50:03 AM)
+[2018.03.29-19.50.03:952][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.50.03:954][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001519s)
+[2018.03.29-19.50.03:955][341]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.50.03:955][341]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.03.29-19.50.03:955][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.003190s)
+[2018.03.29-19.50.03:996][341]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.50.03:997][341]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.50.03:998][341]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.50.04:041][341]LogInit: FAudioDevice initialized.
+[2018.03.29-19.50.04:087][341]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.50.04:088][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.50.04
+[2018.03.29-19.50.04:089][341]LogWorld: Bringing up level for play took: 0.000671
+[2018.03.29-19.50.04:089][341]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.50.04:097][341]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.88
+[2018.03.29-19.50.04:097][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.50.13:262][522]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.50.13:299][522]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.52.31:111][  2]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.52.31:166][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.52.31:166][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.52.31:167][  2]PIE: New page: PIE session: Login (Mar 30, 2018, 1:52:31 AM)
+[2018.03.29-19.52.31:167][  2]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.52.31:168][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001099s)
+[2018.03.29-19.52.31:169][  2]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.52.31:169][  2]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2018.03.29-19.52.31:170][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002676s)
+[2018.03.29-19.52.31:210][  2]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.52.31:210][  2]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.52.31:212][  2]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.52.31:259][  2]LogInit: FAudioDevice initialized.
+[2018.03.29-19.52.31:303][  2]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.52.31:304][  2]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.52.31
+[2018.03.29-19.52.31:305][  2]LogWorld: Bringing up level for play took: 0.000767
+[2018.03.29-19.52.31:305][  2]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.52.31:315][  2]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.098
+[2018.03.29-19.52.31:316][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.52.32:425][ 37]LogLowEntrySocket: Warning: SocketConnection connection validation didn't got a response in time
+[2018.03.29-19.52.38:850][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.52.38:907][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.53.41:791][396]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.53.41:858][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.53.41:858][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.53.41:858][396]PIE: New page: PIE session: Login (Mar 30, 2018, 1:53:41 AM)
+[2018.03.29-19.53.41:859][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.53.41:861][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002011s)
+[2018.03.29-19.53.41:862][396]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.53.41:862][396]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2018.03.29-19.53.41:863][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.003902s)
+[2018.03.29-19.53.41:915][396]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.53.41:915][396]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.53.41:920][396]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.53.41:987][396]LogInit: FAudioDevice initialized.
+[2018.03.29-19.53.42:037][396]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.53.42:038][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.53.42
+[2018.03.29-19.53.42:039][396]LogWorld: Bringing up level for play took: 0.000903
+[2018.03.29-19.53.42:040][396]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.53.42:052][396]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.835
+[2018.03.29-19.53.42:053][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.53.43:175][434]LogLowEntrySocket: Warning: SocketConnection connection validation didn't got a response in time
+[2018.03.29-19.53.50:482][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.53.50:522][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.54.30:710][126]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.54.30:767][126]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.54.30:768][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.54.30:768][126]PIE: New page: PIE session: Login (Mar 30, 2018, 1:54:30 AM)
+[2018.03.29-19.54.30:768][126]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.54.30:770][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001142s)
+[2018.03.29-19.54.30:770][126]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.54.30:771][126]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2018.03.29-19.54.30:771][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002938s)
+[2018.03.29-19.54.30:817][126]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.54.30:817][126]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.54.30:819][126]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.54.30:877][126]LogInit: FAudioDevice initialized.
+[2018.03.29-19.54.30:925][126]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.54.30:927][126]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.54.30
+[2018.03.29-19.54.30:927][126]LogWorld: Bringing up level for play took: 0.001329
+[2018.03.29-19.54.30:928][126]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.54.30:939][126]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.278
+[2018.03.29-19.54.30:940][126]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.54.45:010][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.54.45:048][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.58.23:387][  2]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-19.58.23:445][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.58.23:446][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-19.58.23:446][  2]PIE: New page: PIE session: Login (Mar 30, 2018, 1:58:23 AM)
+[2018.03.29-19.58.23:446][  2]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-19.58.23:448][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001166s)
+[2018.03.29-19.58.23:448][  2]LogAIModule: Creating AISystem for world Login
+[2018.03.29-19.58.23:449][  2]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.03.29-19.58.23:449][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002609s)
+[2018.03.29-19.58.23:494][  2]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-19.58.23:494][  2]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-19.58.23:495][  2]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-19.58.23:544][  2]LogInit: FAudioDevice initialized.
+[2018.03.29-19.58.23:587][  2]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-19.58.23:588][  2]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-22.58.23
+[2018.03.29-19.58.23:588][  2]LogWorld: Bringing up level for play took: 0.000933
+[2018.03.29-19.58.23:589][  2]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-19.58.23:597][  2]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.38
+[2018.03.29-19.58.23:598][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.58.30:317][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-19.58.30:353][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.00.04:688][498]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-20.00.04:773][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.00.04:773][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-20.00.04:773][498]PIE: New page: PIE session: Login (Mar 30, 2018, 2:00:04 AM)
+[2018.03.29-20.00.04:774][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-20.00.04:775][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001534s)
+[2018.03.29-20.00.04:776][498]LogAIModule: Creating AISystem for world Login
+[2018.03.29-20.00.04:777][498]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2018.03.29-20.00.04:777][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.003597s)
+[2018.03.29-20.00.04:850][498]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-20.00.04:850][498]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-20.00.04:853][498]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-20.00.04:964][498]LogInit: FAudioDevice initialized.
+[2018.03.29-20.00.05:041][498]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-20.00.05:042][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-23.00.05
+[2018.03.29-20.00.05:043][498]LogWorld: Bringing up level for play took: 0.001048
+[2018.03.29-20.00.05:043][498]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-20.00.05:055][498]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.162
+[2018.03.29-20.00.05:056][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.00.21:560][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.00.21:599][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.03.35:190][ 41]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.29-20.03.35:247][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.03.35:247][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-20.03.35:247][ 41]PIE: New page: PIE session: Login (Mar 30, 2018, 2:03:35 AM)
+[2018.03.29-20.03.35:248][ 41]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.03.29-20.03.35:249][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001048s)
+[2018.03.29-20.03.35:249][ 41]LogAIModule: Creating AISystem for world Login
+[2018.03.29-20.03.35:250][ 41]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2018.03.29-20.03.35:250][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002606s)
+[2018.03.29-20.03.35:297][ 41]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.03.29-20.03.35:297][ 41]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.03.29-20.03.35:299][ 41]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.29-20.03.35:347][ 41]LogInit: FAudioDevice initialized.
+[2018.03.29-20.03.35:388][ 41]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.03.29-20.03.35:389][ 41]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.03.29-23.03.35
+[2018.03.29-20.03.35:389][ 41]LogWorld: Bringing up level for play took: 0.001153
+[2018.03.29-20.03.35:390][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.29-20.03.35:400][ 41]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.182
+[2018.03.29-20.03.35:400][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.03.47:852][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.03.47:896][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.03.29-20.14.37:575][127]Cmd: QUIT_EDITOR
+[2018.03.29-20.14.38:103][127]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-20.14.38:174][127]LogExit: Preparing to exit.
+[2018.03.29-20.14.39:225][127]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/' was aborted.
+[2018.03.29-20.14.39:633][127]LogExit: Editor shut down
+[2018.03.29-20.14.39:673][127]LogExit: Transaction tracking system shut down
+[2018.03.29-20.14.40:316][127]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.29-20.14.40:316][127]LogDirectoryWatcher: A directory notification for '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/' was aborted.
+[2018.03.29-20.14.40:316][127]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.29-20.14.40:316][127]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/' was aborted.
+[2018.03.29-20.14.40:316][127]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.29-20.14.40:316][127]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.29-20.14.40:316][127]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.29-20.14.41:848][127]LogExit: Object subsystem successfully closed.
+[2018.03.29-20.14.42:045][127]LogD3D11RHI: Shutdown
+[2018.03.29-20.14.42:059][127]LogD3D11RHI: CleanupD3DDevice
+[2018.03.29-20.14.42:079][127]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.29-20.14.42:915][127]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (542)
+[2018.03.29-20.14.42:915][127]LogModuleManager: Shutting down and abandoning module SequencerWidgets (540)
+[2018.03.29-20.14.42:915][127]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.03.29-20.14.42:915][127]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (536)
+[2018.03.29-20.14.42:915][127]LogModuleManager: Shutting down and abandoning module DesktopPlatform (534)
+[2018.03.29-20.14.42:936][127]LogModuleManager: Shutting down and abandoning module WorldBrowser (532)
+[2018.03.29-20.14.42:952][127]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2018.03.29-20.14.42:952][127]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2018.03.29-20.14.42:963][127]LogDirectoryWatcher: A directory notification for 'F:/Soft/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.29-20.14.42:980][127]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2018.03.29-20.14.42:980][127]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2018.03.29-20.14.42:980][127]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2018.03.29-20.14.43:027][127]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Collections/' was aborted.
+[2018.03.29-20.14.43:027][127]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Developers/root/Collections/' was aborted.
+[2018.03.29-20.14.43:027][127]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Collections/' was aborted.
+[2018.03.29-20.14.43:027][127]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2018.03.29-20.14.43:045][127]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2018.03.29-20.14.43:060][127]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2018.03.29-20.14.43:085][127]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2018.03.29-20.14.43:101][127]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2018.03.29-20.14.43:107][127]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2018.03.29-20.14.43:114][127]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2018.03.29-20.14.43:170][127]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2018.03.29-20.14.43:170][127]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2018.03.29-20.14.43:170][127]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2018.03.29-20.14.43:170][127]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (484)
+[2018.03.29-20.14.43:170][127]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (482)
+[2018.03.29-20.14.43:170][127]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (480)
+[2018.03.29-20.14.43:170][127]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (478)
+[2018.03.29-20.14.43:171][127]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (476)
+[2018.03.29-20.14.43:171][127]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2018.03.29-20.14.43:171][127]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2018.03.29-20.14.43:202][127]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2018.03.29-20.14.43:224][127]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2018.03.29-20.14.43:224][127]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2018.03.29-20.14.43:224][127]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2018.03.29-20.14.43:224][127]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2018.03.29-20.14.43:224][127]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2018.03.29-20.14.43:254][127]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (459)
+[2018.03.29-20.14.43:332][127]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.03.29-20.14.43:354][127]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.03.29-20.14.43:393][127]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.03.29-20.14.43:409][127]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.03.29-20.14.43:409][127]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.03.29-20.14.43:409][127]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.03.29-20.14.43:409][127]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.03.29-20.14.43:693][127]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.03.29-20.14.43:693][127]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.03.29-20.14.43:693][127]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.03.29-20.14.43:693][127]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.03.29-20.14.43:722][127]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.03.29-20.14.43:795][127]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.03.29-20.14.43:795][127]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.03.29-20.14.43:874][127]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.03.29-20.14.43:874][127]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.03.29-20.14.43:955][127]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.03.29-20.14.43:997][127]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.03.29-20.14.43:997][127]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.03.29-20.14.43:997][127]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.03.29-20.14.43:997][127]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.03.29-20.14.43:997][127]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.03.29-20.14.43:997][127]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.03.29-20.14.43:997][127]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.03.29-20.14.43:998][127]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.03.29-20.14.43:998][127]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.03.29-20.14.43:998][127]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.03.29-20.14.44:063][127]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.03.29-20.14.44:154][127]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.03.29-20.14.44:198][127]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.03.29-20.14.44:235][127]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.03.29-20.14.44:277][127]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.03.29-20.14.44:349][127]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.03.29-20.14.44:481][127]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.03.29-20.14.44:746][127]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.03.29-20.14.44:746][127]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.03.29-20.14.44:819][127]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.03.29-20.14.44:904][127]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.03.29-20.14.44:995][127]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.03.29-20.14.44:995][127]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.03.29-20.14.44:995][127]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.03.29-20.14.45:150][127]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.03.29-20.14.45:150][127]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.03.29-20.14.45:150][127]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.03.29-20.14.45:179][127]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.03.29-20.14.45:277][127]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.03.29-20.14.45:277][127]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module LauncherPlatform (354)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module AnalyticsET (352)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module PortalServices (350)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module PortalRpc (348)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module MessagingRpc (346)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module AIModule (344)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module GameplayDebugger (343)
+[2018.03.29-20.14.45:313][127]LogModuleManager: Shutting down and abandoning module AITestSuite (341)
+[2018.03.29-20.14.45:345][127]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2018.03.29-20.14.45:506][127]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module SteamVRController (334)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (332)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (330)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module OculusInput (328)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (326)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module CableComponent (324)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (322)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module ActorSequence (320)
+[2018.03.29-20.14.45:544][127]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (318)
+[2018.03.29-20.14.45:687][127]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (316)
+[2018.03.29-20.14.45:687][127]LogModuleManager: Shutting down and abandoning module MediaCompositing (314)
+[2018.03.29-20.14.45:688][127]LogModuleManager: Shutting down and abandoning module VaRestEditorPlugin (312)
+[2018.03.29-20.14.45:688][127]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibraryEditor (310)
+[2018.03.29-20.14.45:688][127]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.03.29-20.14.45:688][127]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.03.29-20.14.45:731][127]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.03.29-20.14.45:731][127]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.03.29-20.14.45:759][127]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.03.29-20.14.45:759][127]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.03.29-20.14.45:759][127]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.03.29-20.14.45:958][127]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.03.29-20.14.46:062][127]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.03.29-20.14.46:062][127]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2018.03.29-20.14.46:062][127]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2018.03.29-20.14.46:141][127]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2018.03.29-20.14.46:272][127]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2018.03.29-20.14.46:283][127]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2018.03.29-20.14.46:314][127]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2018.03.29-20.14.46:314][127]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2018.03.29-20.14.46:314][127]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2018.03.29-20.14.46:315][127]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2018.03.29-20.14.46:337][127]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2018.03.29-20.14.46:344][127]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2018.03.29-20.14.46:352][127]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2018.03.29-20.14.46:364][127]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2018.03.29-20.14.46:365][127]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2018.03.29-20.14.46:378][127]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Binaries/Win64' was aborted.
+[2018.03.29-20.14.46:398][127]LogModuleManager: Shutting down and abandoning module CyberWar (262)
+[2018.03.29-20.14.46:398][127]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.03.29-20.14.46:398][127]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.03.29-20.14.46:398][127]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.03.29-20.14.46:398][127]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.03.29-20.14.46:398][127]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (252)
+[2018.03.29-20.14.46:398][127]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (250)
+[2018.03.29-20.14.46:403][127]LogModuleManager: Shutting down and abandoning module UdpMessaging (248)
+[2018.03.29-20.14.46:513][127]LogModuleManager: Shutting down and abandoning module TcpMessaging (246)
+[2018.03.29-20.14.46:625][127]LogModuleManager: Shutting down and abandoning module VaRestPlugin (244)
+[2018.03.29-20.14.46:625][127]LogModuleManager: Shutting down and abandoning module HTTP (243)
+[2018.03.29-20.14.46:625][127]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.29-20.14.46:637][127]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB1AA02F6-4E73-0AFE-34A4-418C08161F41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=2c6610f74f8cdf95741746a9d3e8185a%7C8167cdcf23284d0f90b0e1e46bc72afd%7C057141d7-b98d-4be3-b125-df727f93db6b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.29-20.14.46:666][127]LogModuleManager: Shutting down and abandoning module SSL (242)
+[2018.03.29-20.14.46:679][127]LogModuleManager: Shutting down and abandoning module LowEntrySocketConnection (238)
+[2018.03.29-20.14.46:679][127]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibrary (236)
+[2018.03.29-20.14.46:679][127]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2018.03.29-20.14.46:708][127]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (232)
+[2018.03.29-20.14.46:708][127]LogModuleManager: Shutting down and abandoning module FacialAnimation (230)
+[2018.03.29-20.14.46:708][127]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2018.03.29-20.14.46:723][127]LogModuleManager: Shutting down and abandoning module GraphEditor (227)
+[2018.03.29-20.14.46:723][127]LogModuleManager: Shutting down and abandoning module ContentBrowser (225)
+[2018.03.29-20.14.46:724][127]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (222)
+[2018.03.29-20.14.46:724][127]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2018.03.29-20.14.46:724][127]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (218)
+[2018.03.29-20.14.46:724][127]LogModuleManager: Shutting down and abandoning module WmfMedia (216)
+[2018.03.29-20.14.46:733][127]LogModuleManager: Shutting down and abandoning module ImgMedia (214)
+[2018.03.29-20.14.46:733][127]LogModuleManager: Shutting down and abandoning module PacketHandler (212)
+[2018.03.29-20.14.46:733][127]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (210)
+[2018.03.29-20.14.46:733][127]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (208)
+[2018.03.29-20.14.46:749][127]LogModuleManager: Shutting down and abandoning module MediaAssets (206)
+[2018.03.29-20.14.46:749][127]LogModuleManager: Shutting down and abandoning module Media (205)
+[2018.03.29-20.14.46:755][127]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2018.03.29-20.14.46:755][127]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2018.03.29-20.14.46:755][127]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2018.03.29-20.14.46:795][127]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2018.03.29-20.14.46:803][127]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2018.03.29-20.14.46:803][127]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2018.03.29-20.14.46:862][127]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2018.03.29-20.14.46:879][127]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2018.03.29-20.14.46:897][127]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2018.03.29-20.14.46:897][127]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2018.03.29-20.14.46:909][127]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2018.03.29-20.14.46:909][127]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2018.03.29-20.14.46:909][127]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2018.03.29-20.14.46:909][127]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2018.03.29-20.14.46:944][127]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2018.03.29-20.14.46:944][127]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2018.03.29-20.14.46:948][127]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2018.03.29-20.14.46:948][127]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (166)
+[2018.03.29-20.14.46:948][127]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (164)
+[2018.03.29-20.14.46:948][127]LogModuleManager: Shutting down and abandoning module XAudio2 (162)
+[2018.03.29-20.14.46:948][127]LogModuleManager: Shutting down and abandoning module Networking (160)
+[2018.03.29-20.14.46:948][127]LogModuleManager: Shutting down and abandoning module Core (156)
+[2018.03.29-20.14.46:948][127]LogModuleManager: Shutting down and abandoning module LevelSequence (152)
+[2018.03.29-20.14.46:963][127]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (150)
+[2018.03.29-20.14.46:973][127]LogModuleManager: Shutting down and abandoning module KismetCompiler (148)
+[2018.03.29-20.14.46:973][127]LogModuleManager: Shutting down and abandoning module MeshUtilities (146)
+[2018.03.29-20.14.46:990][127]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (145)
+[2018.03.29-20.14.47:003][127]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (144)
+[2018.03.29-20.14.47:003][127]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (143)
+[2018.03.29-20.14.47:010][127]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (141)
+[2018.03.29-20.14.47:010][127]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (139)
+[2018.03.29-20.14.47:010][127]LogModuleManager: Shutting down and abandoning module MaterialBaking (135)
+[2018.03.29-20.14.47:015][127]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2018.03.29-20.14.47:058][127]LogDerivedDataCache: Shutdown
+[2018.03.29-20.14.47:058][127]LogModuleManager: Shutting down and abandoning module TargetPlatform (130)
+[2018.03.29-20.14.47:059][127]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (129)
+[2018.03.29-20.14.47:065][127]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (127)
+[2018.03.29-20.14.47:069][127]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (125)
+[2018.03.29-20.14.47:081][127]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (123)
+[2018.03.29-20.14.47:081][127]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (121)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (119)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (117)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (115)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (113)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (111)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module ImageWrapper (110)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (107)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (105)
+[2018.03.29-20.14.47:100][127]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (103)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (101)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (99)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (97)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (95)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (93)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (91)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module Messaging (89)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (87)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (85)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (83)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (81)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (79)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (77)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (75)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (73)
+[2018.03.29-20.14.47:101][127]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (71)
+[2018.03.29-20.14.47:102][127]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (69)
+[2018.03.29-20.14.47:102][127]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (67)
+[2018.03.29-20.14.47:102][127]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (65)
+[2018.03.29-20.14.47:102][127]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (63)
+[2018.03.29-20.14.47:102][127]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (61)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (59)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (57)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (55)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (53)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (51)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module InputCore (48)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module Settings (46)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module PhysXCooking (44)
+[2018.03.29-20.14.47:103][127]LogModuleManager: Shutting down and abandoning module SteamVR (42)
+[2018.03.29-20.14.47:104][127]LogModuleManager: Shutting down and abandoning module OculusHMD (40)
+[2018.03.29-20.14.47:115][127]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (38)
+[2018.03.29-20.14.47:115][127]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.29-20.14.47:127][127]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.29-20.14.47:127][127]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.29-20.14.47:137][127]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.29-20.14.47:151][127]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.29-20.14.47:151][127]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.29-20.14.47:151][127]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.29-20.14.47:173][127]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.29-20.14.47:197][127]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.29-20.14.47:211][127]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.29-20.14.47:261][127]LogExit: Exiting.
+[2018.03.29-20.14.47:283][127]Log file closed, 03/29/18 23:14:47

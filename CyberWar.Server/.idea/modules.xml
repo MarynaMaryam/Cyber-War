@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CW.Server.Core/CW.Server.Core.iml" filepath="$PROJECT_DIR$/CW.Server.Core/CW.Server.Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW.Server.Lobby/CW.Server.Lobby.iml" filepath="$PROJECT_DIR$/CW.Server.Lobby/CW.Server.Lobby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW.Server.Login/CW.Server.Login.iml" filepath="$PROJECT_DIR$/CW.Server.Login/CW.Server.Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW.Server.Master/CW.Server.Master.iml" filepath="$PROJECT_DIR$/CW.Server.Master/CW.Server.Master.iml" />
+    </modules>
+  </component>
+</project>

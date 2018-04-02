@@ -1,0 +1,1233 @@
+﻿Log file open, 04/01/18 16:32:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CyberWar
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-288732610) SRandInit(-288732610).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.112354
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin LowEntrySocketConnection
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Binaries/Win64/UE4Editor-CyberWar-1134.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibraryEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntrySocketConnection/Binaries/Win64/UE4Editor-LowEntrySocketConnection.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestEditorPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: F:/Soft/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.01-13.32.30:362][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.01-13.32.30:363][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.01-13.32.30:462][  0]LogInit: Computer: DESKTOP-38OIRC4
+[2018.04.01-13.32.30:462][  0]LogInit: User: root
+[2018.04.01-13.32.30:462][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.01-13.32.30:462][  0]LogInit: High frequency timer resolution =2.825500 MHz
+[2018.04.01-13.32.30:462][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.01-13.32.30:462][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.01-13.32.30:462][  0]LogMemory: Process Physical Memory: 270.93 MB used, 270.93 MB peak
+[2018.04.01-13.32.30:462][  0]LogMemory: Process Virtual Memory: 271.25 MB used, 271.25 MB peak
+[2018.04.01-13.32.30:462][  0]LogMemory: Physical Memory: 5271.33 MB used,  2837.96 MB free, 8109.29 MB total
+[2018.04.01-13.32.30:462][  0]LogMemory: Virtual Memory: 668.63 MB used,  2837.96 MB free, 134217728.00 MB total
+[2018.04.01-13.32.31:436][  0]LogInit: Using OS detected language (ru-RU).
+[2018.04.01-13.32.31:436][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.04.01-13.32.31:726][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.04.01-13.32.31:727][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.04.01-13.32.32:500][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.01-13.32.35:809][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.01-13.32.35:878][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2018.04.01-13.32.35:878][  0]LogD3D11RHI:       2020/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.01-13.32.35:884][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.04.01-13.32.35:884][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.01-13.32.35:886][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.01-13.32.35:886][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.01-13.32.35:886][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.01-13.32.35:894][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.01-13.32.35:894][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.01-13.32.35:894][  0]LogWindows: EnumDisplayDevices:
+[2018.04.01-13.32.35:894][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.04.01-13.32.35:895][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.01-13.32.35:895][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.01-13.32.35:895][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.01-13.32.35:895][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2018.04.01-13.32.35:895][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.01-13.32.35:895][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.01-13.32.35:895][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.04.01-13.32.35:953][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.01-13.32.36:041][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2018.04.01-13.32.36:051][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Intermediate/Shaders/WorkingDirectory/7392/).
+[2018.04.01-13.32.36:051][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/root/AppData/Local/Temp/UnrealShaderWorkingDir/59A1E5FE4E3578F775DB7C9690B3740D/'.
+[2018.04.01-13.32.36:051][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.01-13.32.45:907][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.01-13.32.46:006][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.01-13.32.46:082][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.01-13.32.46:139][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.01-13.32.46:347][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.01-13.32.46:495][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.01-13.32.46:692][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.01-13.32.46:756][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.01-13.32.46:840][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.01-13.32.46:951][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.01-13.32.47:054][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.01-13.32.47:120][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.01-13.32.47:214][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.01-13.32.47:268][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.01-13.32.47:380][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.01-13.32.47:380][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.01-13.32.47:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.01-13.32.47:514][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.01-13.32.47:724][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.01-13.32.47:757][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.01-13.32.47:829][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.01-13.32.47:917][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.01-13.32.47:997][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.01-13.32.48:132][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.01-13.32.48:148][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.01-13.32.51:814][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.01-13.32.53:005][  0]LogDerivedDataCache: Loaded boot cache 1.19s 84MB C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.01-13.32.53:005][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.01-13.32.53:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.01-13.32.53:006][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.01-13.32.53:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.01-13.32.53:006][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.01-13.32.53:048][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.01-13.32.53:062][  0]LogDerivedDataCache: Using Local data cache path C:/Users/root/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.01-13.32.53:205][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.01-13.32.53:262][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.01-13.32.53:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.01-13.32.53:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.01-13.33.03:822][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.01-13.33.06:053][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.01-13.33.06:114][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.01-13.33.06:118][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.01-13.33.06:118][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.01-13.33.06:118][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.01-13.33.06:118][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.01-13.33.06:915][  0]LogNetVersion: CyberWar , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2311747216)
+[2018.04.01-13.33.08:355][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.04.01-13.33.25:988][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.092407 seconds
+[2018.04.01-13.33.26:048][  0]LogUObjectArray: 35346 objects as part of root set at end of initial load.
+[2018.04.01-13.33.26:048][  0]LogUObjectAllocator: 7033896 out of 0 bytes used by permanent object pool.
+[2018.04.01-13.33.26:048][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.01-13.33.26:155][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.01-13.33.59:735][  0]LogInit: Using libcurl 7.47.1
+[2018.04.01-13.33.59:735][  0]LogInit:  - built for x86_64-pc-win32
+[2018.04.01-13.33.59:735][  0]LogInit:  - supports SSL with OpenSSL/1.0.2g
+[2018.04.01-13.33.59:735][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.04.01-13.33.59:735][  0]LogInit:  - other features:
+[2018.04.01-13.33.59:735][  0]LogInit:      CURL_VERSION_SSL
+[2018.04.01-13.33.59:737][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.04.01-13.33.59:737][  0]LogInit:      CURL_VERSION_IPV6
+[2018.04.01-13.33.59:737][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.04.01-13.33.59:737][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.04.01-13.33.59:737][  0]LogInit:      CURL_VERSION_IDN
+[2018.04.01-13.33.59:740][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.04.01-13.33.59:740][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2018.04.01-13.33.59:740][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.04.01-13.33.59:740][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.04.01-13.33.59:741][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2018.04.01-13.33.59:867][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.01-13.34.00:070][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.01-13.34.02:652][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.04.01-13.34.02:705][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.02:705][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.02:889][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.01-13.34.02:988][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.04.01-13.34.02:989][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.02:989][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.03:037][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.04.01-13.34.03:037][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.03:037][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.03:087][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.04.01-13.34.03:088][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.03:088][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.03:126][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.04.01-13.34.03:126][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.03:126][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.03:148][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.04.01-13.34.03:149][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.03:149][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.03:390][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.04.01-13.34.03:390][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.03:390][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.03:443][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.04.01-13.34.03:443][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.03:443][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.03:495][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.04.01-13.34.03:495][  0]LogMaterial: Warning: F:\Soft\Epic Games\UE_4.18\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.01-13.34.03:495][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.04.01-13.34.05:167][  0]SourceControl: Source control is disabled
+[2018.04.01-13.34.05:168][  0]SourceControl: Source control is disabled
+[2018.04.01-13.34.05:359][  0]SourceControl: Source control is disabled
+[2018.04.01-13.34.05:434][  0]SourceControl: Source control is disabled
+[2018.04.01-13.34.08:184][  0]LogOcInput: OculusInput pre-init called
+[2018.04.01-13.34.08:582][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.04.01-13.34.08:582][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.04.01-13.34.09:621][  0]LogEngine: Initializing Engine...
+[2018.04.01-13.34.09:746][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.01-13.34.11:882][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.01-13.34.11:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.01-13.34.12:339][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.01-13.34.12:418][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-13.34.12:565][  0]LogInit: FAudioDevice initialized.
+[2018.04.01-13.34.12:808][  0]LogDerivedDataCache: Saved boot cache 0.24s 84MB C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.01-13.34.12:822][  0]LogInit: Texture streaming: Enabled
+[2018.04.01-13.34.13:074][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.01-13.34.13:465][  0]LogInit: Transaction tracking system initialized
+[2018.04.01-13.34.14:630][  0]BlueprintLog: New page: Editor Load
+[2018.04.01-13.34.17:118][  0]LocalizationService: Localization service is disabled
+[2018.04.01-13.34.20:497][  0]LogConsoleResponse: Display: 
+[2018.04.01-13.34.27:144][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/' took 0.08s
+[2018.04.01-13.34.27:144][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.01-13.34.27:174][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.01-13.34.27:203][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.01-13.34.30:421][  0]SourceControl: Source control is disabled
+[2018.04.01-13.34.30:471][  0]Cmd: MAP LOAD FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.01-13.34.30:555][  0]LightingResults: New page: Lighting Build
+[2018.04.01-13.34.30:693][  0]MapCheck: New page: Map Check
+[2018.04.01-13.34.30:693][  0]LightingResults: New page: Lighting Build
+[2018.04.01-13.34.57:664][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.01-13.35.25:689][  0]LogAIModule: Creating AISystem for world Testing
+[2018.04.01-13.35.26:851][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.01-13.35.27:196][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.01-13.35.27:364][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 158.831ms to complete.
+[2018.04.01-13.35.27:399][  0]LogFileHelpers: Loading map 'Testing' took 56.937
+[2018.04.01-13.35.29:138][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.35.29:138][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.35.30:694][  0]LogCollectionManager: Loaded 0 collections in 0.001213 seconds
+[2018.04.01-13.35.30:916][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Collections/' took 0.01s
+[2018.04.01-13.35.30:916][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Developers/root/Collections/' took 0.01s
+[2018.04.01-13.35.30:917][  0]LogFileCache: Scanning file cache for directory 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Collections/' took 0.01s
+[2018.04.01-13.35.30:917][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.01-13.35.31:051][  0]LogContentBrowser: Native class hierarchy populated in 0.1210 seconds. Added 2348 classes and 512 folders.
+[2018.04.01-13.35.31:333][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.01-13.35.33:107][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.04.01-13.35.33:445][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.04.01-13.35.33:831][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0022 seconds. Added 2 classes and 3 folders.
+[2018.04.01-13.35.35:365][  0]LogSlate: Took 0.018016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.01-13.35.35:391][  0]LogSlate: Took 0.010303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.01-13.35.35:468][  0]LogSlate: Took 0.010241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.01-13.35.36:172][  0]LogRenderer: Reallocating scene render targets to support 1148x584 Format 10 NumSamples 1 (Frame:1).
+[2018.04.01-13.35.37:915][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.04.01-13.35.37:915][  0]LogLoad: (Engine Initialization) Total time: 199.54 seconds
+[2018.04.01-13.35.37:915][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.01-13.35.37:957][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.01-13.35.37:957][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.01-13.35.38:524][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.01-13.35.39:722][  1]LogSlate: Took 0.017393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.01-13.35.39:786][  2]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.01-13.35.40:147][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0143 seconds. Added 116 classes and 0 folders.
+[2018.04.01-13.35.45:242][  2]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.01-13.35.45:270][  2]LogSlate: Took 0.028052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.01-13.35.57:287][ 38]LogAssetRegistry: Asset discovery search completed in 168.9530 seconds
+[2018.04.01-13.35.57:360][ 38]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.01-13.35.57:361][ 38]LogCollectionManager: Fixed up redirectors for 0 collections in 0.009897 seconds (updated 0 objects)
+[2018.04.01-13.36.19:721][559]LogAIModule: Creating AISystem for world Login
+[2018.04.01-13.36.19:865][559]Cmd: MAP LOAD FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.01-13.36.19:866][559]LightingResults: New page: Lighting Build
+[2018.04.01-13.36.19:866][559]LoadErrors: New page: Loading map: Login.umap
+[2018.04.01-13.36.19:997][559]MapCheck: New page: Map Check
+[2018.04.01-13.36.19:997][559]LightingResults: New page: Lighting Build
+[2018.04.01-13.36.20:320][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.01-13.36.20:420][559]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.01-13.36.20:541][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.144ms to complete.
+[2018.04.01-13.36.20:542][559]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.01-13.36.20:551][559]LogFileHelpers: Loading map 'Login' took 0.741
+[2018.04.01-13.36.21:705][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-13.36.22:227][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.36.22:249][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-13.36.22:279][611]PIE: New page: PIE session: Login (Apr 1, 2018, 7:36:22 PM)
+[2018.04.01-13.36.22:280][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-13.36.22:281][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000890s)
+[2018.04.01-13.36.22:281][611]LogAIModule: Creating AISystem for world Login
+[2018.04.01-13.36.22:281][611]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.04.01-13.36.22:282][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002043s)
+[2018.04.01-13.36.22:341][611]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-13.36.22:341][611]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-13.36.22:343][611]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-13.36.22:386][611]LogInit: FAudioDevice initialized.
+[2018.04.01-13.36.22:524][611]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-13.36.22:538][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-16.36.22
+[2018.04.01-13.36.22:539][611]LogWorld: Bringing up level for play took: 0.000763
+[2018.04.01-13.36.22:600][611]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.04.01-13.36.22:650][611]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.634
+[2018.04.01-13.36.22:651][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.36.22:728][611]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.01-13.36.22:811][612]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 22:811 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-13.36.22:826][612]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 22:825 ) - Соединение с сервером установлено
+[2018.04.01-13.36.23:321][629]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-13.36.23:322][629]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 23:322 ) - Аутентификация прошла успешно
+[2018.04.01-13.36.28:204][801]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 28:204 ) - Send Package: {"action":"Authorization","data":{"login":"еуые","password":"еуые"}}
+[2018.04.01-13.36.28:278][805]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 1,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "success" : false
+}
+[2018.04.01-13.36.38:325][342]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 38:325 ) - Send Package: {"action":"Authorization","data":{"login":"еуые","password":"еуые"}}
+[2018.04.01-13.36.38:343][343]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 1,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "success" : false
+}
+[2018.04.01-13.36.42:705][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.36.42:750][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.37.57:426][ 99]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.37.57:426][ 99]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.39.22:900][473]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-13.39.22:945][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.39.22:946][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-13.39.22:946][473]PIE: New page: PIE session: Login (Apr 1, 2018, 7:39:22 PM)
+[2018.04.01-13.39.22:946][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-13.39.22:947][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000996s)
+[2018.04.01-13.39.22:948][473]LogAIModule: Creating AISystem for world Login
+[2018.04.01-13.39.22:948][473]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2018.04.01-13.39.22:949][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002703s)
+[2018.04.01-13.39.22:988][473]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-13.39.22:988][473]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-13.39.22:990][473]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-13.39.23:031][473]LogInit: FAudioDevice initialized.
+[2018.04.01-13.39.23:074][473]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-13.39.23:075][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-16.39.23
+[2018.04.01-13.39.23:075][473]LogWorld: Bringing up level for play took: 0.000615
+[2018.04.01-13.39.23:083][473]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 1.067
+[2018.04.01-13.39.23:084][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.39.23:162][474]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 23:162 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-13.39.23:163][474]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 23:163 ) - Соединение с сервером установлено
+[2018.04.01-13.39.23:619][499]LogBlueprintUserMessages: [CW_GameInstance_C_1] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-13.39.23:619][499]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 23:619 ) - Аутентификация прошла успешно
+[2018.04.01-13.39.27:971][705]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 27:971 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"tes"}}
+[2018.04.01-13.39.28:000][706]LogBlueprintUserMessages: [CW_GameInstance_C_1] {
+  "ecode" : 1,
+  "success" : false
+}
+[2018.04.01-13.39.33:514][  8]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 33:514 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-13.39.33:649][ 16]LogBlueprintUserMessages: [CW_GameInstance_C_1] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "ac5a17abac24e86b8626a61ec1da5b93aa6cb2d760d052f4da829e294e7245b2",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-13.39.33:650][ 16]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 33:650 ) - Авторизация прошла успешно
+[2018.04.01-13.39.33:651][ 16]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 33:651 ) - Master server: 127.0.0.1:7783
+[2018.04.01-13.39.33:670][ 17]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-13.39.33:670][ 17]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-13.39.33:706][ 19]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 33:706 ) - Send Package: {"action":"get","data":{"entry":"entry"}}
+[2018.04.01-13.39.33:706][ 19]LogBlueprintUserMessages: [CW_GameInstance_C_1] [ CW_GameInstance_C_1 ]: ( 33:706 ) - Соединение с сервером установлено
+[2018.04.01-13.40.09:340][606]LogLowEntrySocket: Warning: SocketConnection connection validation didn't got a response in time
+[2018.04.01-13.40.09:341][606]LogBlueprintUserMessages: [CW_GameInstance_C_1] 
+[2018.04.01-13.40.09:342][606]LogVaRest: Error: Json decoding failed for: 
+[2018.04.01-13.40.09:342][606]LogVaRest: Warning: No field with name success of type Boolean
+[2018.04.01-13.40.12:786][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.40.12:824][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.40.19:391][ 99]LogSlate: Took 0.019154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.01-13.40.58:216][806]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.40.58:216][806]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.41.10:003][152]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.41.10:003][152]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.41.37:711][767]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-13.41.39:873][791]LogSavePackage: Save=278.53ms
+[2018.04.01-13.41.39:873][791]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance3A25464D41E6D6D17D59418C94577DED.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-13.41.39:878][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-13.41.40:321][817]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-13.41.40:379][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.41.40:380][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-13.41.40:380][817]PIE: New page: PIE session: Login (Apr 1, 2018, 7:41:40 PM)
+[2018.04.01-13.41.40:407][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-13.41.40:409][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000988s)
+[2018.04.01-13.41.40:409][817]LogAIModule: Creating AISystem for world Login
+[2018.04.01-13.41.40:409][817]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.04.01-13.41.40:410][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002448s)
+[2018.04.01-13.41.40:446][817]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-13.41.40:446][817]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-13.41.40:448][817]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-13.41.40:492][817]LogInit: FAudioDevice initialized.
+[2018.04.01-13.41.40:534][817]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-13.41.40:535][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-16.41.40
+[2018.04.01-13.41.40:535][817]LogWorld: Bringing up level for play took: 0.000617
+[2018.04.01-13.41.40:535][817]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-13.41.40:541][817]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.525
+[2018.04.01-13.41.40:541][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.41.40:607][818]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:607 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-13.41.40:607][818]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:607 ) - Соединение с сервером установлено
+[2018.04.01-13.41.40:631][820]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-13.41.40:631][820]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:631 ) - Аутентификация прошла успешно
+[2018.04.01-13.41.45:708][120]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 45:708 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-13.41.45:812][126]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "4c0fb0f66abcb7796e1b8aa17733677afe7c7b492febd6f9c3ccdfbcd7e9292d",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-13.41.45:812][126]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 45:812 ) - Авторизация прошла успешно
+[2018.04.01-13.41.45:812][126]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 45:812 ) - Master server: 127.0.0.1:7783
+[2018.04.01-13.41.45:830][127]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-13.41.45:831][127]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-13.41.45:881][129]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 45:881 ) - Send Package: {"action":"get","data":{"entry":"entry"}}
+[2018.04.01-13.41.45:882][129]LogBlueprintUserMessages: [CW_GameInstance_C_0] Hello
+[2018.04.01-13.41.45:882][129]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 45:882 ) - Соединение с сервером установлено
+[2018.04.01-13.42.02:671][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.42.02:720][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.42.27:572][613]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-13.42.28:433][634]LogSavePackage: Save=275.62ms
+[2018.04.01-13.42.28:434][634]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance07EC26A74FAD18CDA9E5AF9BDDC52536.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-13.42.28:438][634]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-13.42.29:536][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-13.42.29:582][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.42.29:582][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-13.42.29:583][700]PIE: New page: PIE session: Login (Apr 1, 2018, 7:42:29 PM)
+[2018.04.01-13.42.29:609][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-13.42.29:610][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000999s)
+[2018.04.01-13.42.29:611][700]LogAIModule: Creating AISystem for world Login
+[2018.04.01-13.42.29:611][700]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.04.01-13.42.29:611][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002162s)
+[2018.04.01-13.42.29:647][700]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-13.42.29:647][700]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-13.42.29:649][700]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-13.42.29:694][700]LogInit: FAudioDevice initialized.
+[2018.04.01-13.42.29:741][700]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-13.42.29:742][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-16.42.29
+[2018.04.01-13.42.29:743][700]LogWorld: Bringing up level for play took: 0.000681
+[2018.04.01-13.42.29:743][700]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-13.42.29:754][700]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.262
+[2018.04.01-13.42.29:754][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.42.29:818][701]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 29:818 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-13.42.29:819][701]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 29:818 ) - Соединение с сервером установлено
+[2018.04.01-13.42.29:847][703]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-13.42.29:848][703]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 29:848 ) - Аутентификация прошла успешно
+[2018.04.01-13.42.32:941][887]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 32:940 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-13.42.33:074][895]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "4cc65466a979fb4471eaaad9f12de516de583891aa6692d0c5f6fe5a017ae5d0",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-13.42.33:075][895]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 33:75 ) - Авторизация прошла успешно
+[2018.04.01-13.42.33:075][895]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 33:75 ) - Master server: 127.0.0.1:7783
+[2018.04.01-13.42.33:095][896]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-13.42.33:096][896]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-13.42.33:125][898]LogBlueprintUserMessages: [CW_GameInstance_C_0] Hello
+[2018.04.01-13.42.33:126][898]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 33:126 ) - Send Package: {"action":"get","data":{"entry":"entry"}}
+[2018.04.01-13.42.33:127][898]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 33:127 ) - Соединение с сервером установлено
+[2018.04.01-13.42.56:279][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.42.56:322][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-13.53.44:474][507]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.53.44:474][507]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.55.24:537][882]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-13.55.24:538][882]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-14.05.41:845][618]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-14.05.42:755][643]LogSavePackage: Save=267.46ms
+[2018.04.01-14.05.42:755][643]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceC42A6B9445CC5C4440B416A1589EC933.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-14.05.42:761][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-14.22.49:081][202]LogHttp: Warning: 000002323133CE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.01-14.22.49:081][202]LogHttp: Warning: 000002323133CE80: libcurl info message cache 0 (Connection 14 seems to be dead!)
+[2018.04.01-14.22.49:081][202]LogHttp: Warning: 000002323133CE80: libcurl info message cache 1 (Closing connection 14)
+[2018.04.01-14.22.49:081][202]LogHttp: Warning: 000002323133CE80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.04.01-14.22.49:081][202]LogHttp: Warning: 000002323133CE80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.01-14.22.49:081][202]LogHttp: Warning: 000002323133CE80: libcurl info message cache 4 (Closing connection 15)
+[2018.04.01-15.20.44:781][283]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.20.44:781][283]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.29.33:566][909]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.29.33:566][909]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.30.01:231][750]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-15.30.01:422][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.30.01:423][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-15.30.01:424][750]PIE: New page: PIE session: Login (Apr 1, 2018, 9:30:01 PM)
+[2018.04.01-15.30.01:460][750]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-15.30.01:464][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003580s)
+[2018.04.01-15.30.01:468][750]LogAIModule: Creating AISystem for world Login
+[2018.04.01-15.30.01:470][750]LogPlayLevel: PIE: World Init took: (0.005657s)
+[2018.04.01-15.30.01:471][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.010848s)
+[2018.04.01-15.30.01:600][750]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.30.01:601][750]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.30.01:604][750]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-15.30.01:656][750]LogInit: FAudioDevice initialized.
+[2018.04.01-15.30.01:704][750]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-15.30.01:706][750]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-18.30.01
+[2018.04.01-15.30.01:706][750]LogWorld: Bringing up level for play took: 0.001178
+[2018.04.01-15.30.01:708][750]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-15.30.01:723][750]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.294
+[2018.04.01-15.30.01:724][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.30.01:849][751]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 1:849 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.30.01:849][751]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 1:849 ) - Соединение с сервером установлено
+[2018.04.01-15.30.02:320][769]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-15.30.02:320][769]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 2:320 ) - Аутентификация прошла успешно
+[2018.04.01-15.30.05:951][895]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 5:951 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-15.30.06:217][904]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "e5dedc3447071c1fd2ddf37db6162f8b11bf9a27888396e86a9108746eb53246",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-15.30.06:217][904]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 6:217 ) - Авторизация прошла успешно
+[2018.04.01-15.30.06:217][904]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 6:217 ) - Master server: 127.0.0.1:7783
+[2018.04.01-15.30.06:248][905]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.30.06:248][905]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.30.06:307][907]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 6:307 ) - Send Package: {"action":"get","data":{"entry":"entry"}}
+[2018.04.01-15.30.06:307][907]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 6:307 ) - Соединение с сервером установлено
+[2018.04.01-15.30.41:440][ 89]LogLowEntrySocket: Warning: SocketConnection connection validation didn't got a response in time
+[2018.04.01-15.30.44:982][280]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.30.45:026][280]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.32.53:696][917]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.32.54:605][936]LogSavePackage: Save=315.03ms
+[2018.04.01-15.32.54:605][936]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance1EE59FF94608AD3B9A3189977071CBF2.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.32.54:626][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.33.59:945][151]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.34.00:846][174]LogSavePackage: Save=271.68ms
+[2018.04.01-15.34.00:847][174]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceD3D345BE4981E125DEDB7EA65A1D5EB6.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.34.00:852][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.34.03:736][347]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-15.34.03:777][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.34.03:777][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-15.34.03:778][347]PIE: New page: PIE session: Login (Apr 1, 2018, 9:34:03 PM)
+[2018.04.01-15.34.03:801][347]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-15.34.03:802][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001002s)
+[2018.04.01-15.34.03:803][347]LogAIModule: Creating AISystem for world Login
+[2018.04.01-15.34.03:803][347]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.04.01-15.34.03:803][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002332s)
+[2018.04.01-15.34.03:840][347]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.34.03:840][347]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.34.03:842][347]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-15.34.03:890][347]LogInit: FAudioDevice initialized.
+[2018.04.01-15.34.03:936][347]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-15.34.03:936][347]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-18.34.03
+[2018.04.01-15.34.03:937][347]LogWorld: Bringing up level for play took: 0.000606
+[2018.04.01-15.34.03:937][347]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-15.34.03:946][347]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login -0.07
+[2018.04.01-15.34.03:946][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.34.04:011][348]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 4:11 ) - Соединение с сервером установлено
+[2018.04.01-15.34.04:011][348]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 4:11 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.34.04:038][350]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-15.34.04:038][350]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 4:38 ) - Аутентификация прошла успешно
+[2018.04.01-15.34.08:133][594]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:133 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-15.34.08:250][601]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "5d495039128cde51fb06c892e5d7cfbeeee18685f9e628c3869b163ea4d133be",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-15.34.08:251][601]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:251 ) - Авторизация прошла успешно
+[2018.04.01-15.34.08:251][601]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:251 ) - Master server: 127.0.0.1:7783
+[2018.04.01-15.34.08:268][602]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.34.08:268][602]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.34.08:302][604]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:302 ) - Соединение с сервером установлено
+[2018.04.01-15.34.08:302][604]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:302 ) - Send Package: {"action":"get","data":{"entry":"entry"}}
+[2018.04.01-15.34.43:606][ 88]LogLowEntrySocket: Warning: SocketConnection connection validation didn't got a response in time
+[2018.04.01-15.34.46:866][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.34.46:911][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.34.52:643][468]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.34.53:520][491]LogSavePackage: Save=268.15ms
+[2018.04.01-15.34.53:520][491]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceFB65166949131B67A5ECA59ECDAD9B5F.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.34.53:525][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.34.53:918][514]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-15.34.53:962][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.34.53:962][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-15.34.53:962][514]PIE: New page: PIE session: Login (Apr 1, 2018, 9:34:53 PM)
+[2018.04.01-15.34.53:990][514]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-15.34.53:991][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000972s)
+[2018.04.01-15.34.53:991][514]LogAIModule: Creating AISystem for world Login
+[2018.04.01-15.34.53:992][514]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.04.01-15.34.53:992][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002170s)
+[2018.04.01-15.34.54:027][514]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.34.54:027][514]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.34.54:028][514]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-15.34.54:070][514]LogInit: FAudioDevice initialized.
+[2018.04.01-15.34.54:116][514]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-15.34.54:117][514]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-18.34.54
+[2018.04.01-15.34.54:117][514]LogWorld: Bringing up level for play took: 0.000701
+[2018.04.01-15.34.54:118][514]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-15.34.54:128][514]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.111
+[2018.04.01-15.34.54:128][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.34.54:184][515]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 54:183 ) - Соединение с сервером установлено
+[2018.04.01-15.34.54:185][515]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 54:185 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.34.54:211][517]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-15.34.54:211][517]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 54:211 ) - Аутентификация прошла успешно
+[2018.04.01-15.34.57:562][718]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:562 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-15.34.57:696][726]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "56d8fc52ee84e3b81d51a912b9a67f3ea789a256deca489e9ee3486a0f58783e",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-15.34.57:696][726]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:696 ) - Авторизация прошла успешно
+[2018.04.01-15.34.57:696][726]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:696 ) - Master server: 127.0.0.1:7783
+[2018.04.01-15.35.00:639][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.35.00:676][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.35.35:165][888]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.35.35:991][905]LogSavePackage: Save=293.15ms
+[2018.04.01-15.35.35:991][905]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance6BEC7F9B45CFF2EF9B1C179941AF03A0.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.35.35:997][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.35.36:344][926]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-15.35.36:390][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.35.36:390][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-15.35.36:391][926]PIE: New page: PIE session: Login (Apr 1, 2018, 9:35:36 PM)
+[2018.04.01-15.35.36:416][926]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-15.35.36:417][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000881s)
+[2018.04.01-15.35.36:417][926]LogAIModule: Creating AISystem for world Login
+[2018.04.01-15.35.36:417][926]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2018.04.01-15.35.36:418][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002066s)
+[2018.04.01-15.35.36:453][926]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.35.36:453][926]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.35.36:454][926]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-15.35.36:496][926]LogInit: FAudioDevice initialized.
+[2018.04.01-15.35.36:544][926]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-15.35.36:545][926]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-18.35.36
+[2018.04.01-15.35.36:545][926]LogWorld: Bringing up level for play took: 0.000670
+[2018.04.01-15.35.36:545][926]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-15.35.36:556][926]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.54
+[2018.04.01-15.35.36:556][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.35.36:622][927]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 36:622 ) - Соединение с сервером установлено
+[2018.04.01-15.35.36:622][927]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 36:622 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.35.36:653][929]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-15.35.36:653][929]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 36:653 ) - Аутентификация прошла успешно
+[2018.04.01-15.35.40:409][154]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:409 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-15.35.40:547][162]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "a45c786071ba74537c1893385019ae5796e59900b747d22572453b06bbdb608a",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-15.35.40:547][162]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:547 ) - Авторизация прошла успешно
+[2018.04.01-15.35.40:547][162]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:547 ) - Master server: 127.0.0.1:7783
+[2018.04.01-15.35.40:566][163]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.35.40:566][163]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.35.40:599][165]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:599 ) - Соединение с сервером установлено
+[2018.04.01-15.35.40:599][165]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 40:599 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.36.29:325][215]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.36.29:325][215]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.36.32:611][316]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.36.32:611][316]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.36.35:289][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.36.35:328][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.38.06:419][984]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.38.06:419][984]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.38.41:442][ 47]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.38.41:590][ 47]LogBlueprint: Error: [Compiler CW_GameInstance] In use pin  Connection  no longer exists on node  Connect to Server . Please refresh node or break links to remove pin.
+[2018.04.01-15.38.41:590][ 47]LogBlueprint: Error: [Compiler CW_GameInstance] In use pin  Connection  no longer exists on node  Connect to Server . Please refresh node or break links to remove pin.
+[2018.04.01-15.38.42:099][ 47]LogBlueprint: Warning: [Compiler CW_GameInstance] [7583.72] Compile of CW_GameInstance failed. 2 Fatal Issue(s) 0 Warning(s) [in 656 ms] (/Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance)
+[2018.04.01-15.38.42:484][ 48]LogSavePackage: Save=249.91ms
+[2018.04.01-15.38.42:484][ 48]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance87E0554A49AE1B6A7BC32496964344B9.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.38.42:489][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.39.21:740][354]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.39.21:868][354]LogBlueprint: Error: [Compiler CW_GameInstance] In use pin  Connection  no longer exists on node  Connect to Server . Please refresh node or break links to remove pin.
+[2018.04.01-15.39.21:868][354]LogBlueprint: Error: [Compiler CW_GameInstance] In use pin  Return Value  no longer exists on node  Create Socket . Please refresh node or break links to remove pin.
+[2018.04.01-15.39.22:117][354]LogBlueprint: Warning: [Compiler CW_GameInstance] [7623.74] Compile of CW_GameInstance failed. 2 Fatal Issue(s) 0 Warning(s) [in 376 ms] (/Game/Blueprints/Engine/CW_GameInstance.CW_GameInstance)
+[2018.04.01-15.39.22:586][363]LogSavePackage: Save=247.93ms
+[2018.04.01-15.39.22:586][363]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceE20A233346E1D801FC2F168B67FC7097.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.39.22:591][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.39.37:883][236]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.39.38:774][253]LogSavePackage: Save=346.79ms
+[2018.04.01-15.39.38:774][253]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance61F8EFE0403BE3A8B1990696D7741EE8.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.39.38:779][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.40.23:059][316]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.40.23:059][316]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.42.28:178][983]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.42.28:985][  2]LogSavePackage: Save=254.80ms
+[2018.04.01-15.42.28:986][  2]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstance4D82B1EF4A457AE975FCC193CE6AA4F0.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.42.28:993][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.42.42:809][828]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.42.43:578][846]LogSavePackage: Save=255.72ms
+[2018.04.01-15.42.43:578][846]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceEA823DAF4F89FA6C985078B331236703.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.42.43:583][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.42.52:751][395]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-15.42.52:793][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.42.52:794][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-15.42.52:794][395]PIE: New page: PIE session: Login (Apr 1, 2018, 9:42:52 PM)
+[2018.04.01-15.42.52:819][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-15.42.52:820][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000988s)
+[2018.04.01-15.42.52:821][395]LogAIModule: Creating AISystem for world Login
+[2018.04.01-15.42.52:821][395]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.04.01-15.42.52:821][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002150s)
+[2018.04.01-15.42.52:860][395]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.42.52:860][395]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.42.52:862][395]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-15.42.52:910][395]LogInit: FAudioDevice initialized.
+[2018.04.01-15.42.52:960][395]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-15.42.52:961][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-18.42.52
+[2018.04.01-15.42.52:961][395]LogWorld: Bringing up level for play took: 0.000753
+[2018.04.01-15.42.52:962][395]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-15.42.52:972][395]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.956
+[2018.04.01-15.42.52:973][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.42.53:041][396]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 53:41 ) - Соединение с сервером установлено
+[2018.04.01-15.42.53:041][396]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 53:41 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.42.53:070][398]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-15.42.53:071][398]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 53:71 ) - Аутентификация прошла успешно
+[2018.04.01-15.42.57:772][680]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:772 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-15.42.57:907][688]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "ef66b1f3f8f56eaf40425a94a1831681d06ea60e54eb0b4f3ded486cd6a4e25e",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-15.42.57:907][688]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:907 ) - Авторизация прошла успешно
+[2018.04.01-15.42.57:907][688]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:907 ) - Master server: 127.0.0.1:7783
+[2018.04.01-15.42.57:925][689]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.42.57:926][689]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.42.57:962][691]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:962 ) - Соединение с сервером установлено
+[2018.04.01-15.42.57:963][691]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 57:963 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.43.04:193][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.43.04:227][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.43.06:891][217]BlueprintLog: New page: Compile CW_GameInstance
+[2018.04.01-15.43.07:728][238]LogSavePackage: Save=258.93ms
+[2018.04.01-15.43.07:728][238]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/CW_GameInstanceFF392A1949BEEC9F955081ADAD45FA6B.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset'
+[2018.04.01-15.43.07:733][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset
+[2018.04.01-15.43.08:184][264]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.01-15.43.08:230][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.43.08:230][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-15.43.08:230][264]PIE: New page: PIE session: Login (Apr 1, 2018, 9:43:08 PM)
+[2018.04.01-15.43.08:256][264]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Login
+[2018.04.01-15.43.08:257][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000901s)
+[2018.04.01-15.43.08:257][264]LogAIModule: Creating AISystem for world Login
+[2018.04.01-15.43.08:257][264]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.04.01-15.43.08:258][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Login.Login to /Game/Maps/UEDPIE_0_Login.Login (0.002018s)
+[2018.04.01-15.43.08:293][264]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.43.08:293][264]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.43.08:295][264]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.01-15.43.08:338][264]LogInit: FAudioDevice initialized.
+[2018.04.01-15.43.08:378][264]LogLoad: Game class is 'CW_Login_GameMode_C'
+[2018.04.01-15.43.08:379][264]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Login.Login up for play (max tick rate 60) at 2018.04.01-18.43.08
+[2018.04.01-15.43.08:379][264]LogWorld: Bringing up level for play took: 0.000612
+[2018.04.01-15.43.08:380][264]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.01-15.43.08:389][264]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Login 0.373
+[2018.04.01-15.43.08:389][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.43.08:453][265]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:453 ) - Соединение с сервером установлено
+[2018.04.01-15.43.08:453][265]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:453 ) - Send Package: {"action":"Authentication","data":{"version":"1.0.0.0"}}
+[2018.04.01-15.43.08:483][267]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "success" : true
+}
+[2018.04.01-15.43.08:484][267]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 8:484 ) - Аутентификация прошла успешно
+[2018.04.01-15.43.13:028][539]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 13:27 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-15.43.13:045][540]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 2,
+  "success" : false
+}
+[2018.04.01-15.44.17:231][576]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 17:231 ) - Send Package: {"action":"Authorization","data":{"login":"test","password":"test"}}
+[2018.04.01-15.44.17:400][582]LogBlueprintUserMessages: [CW_GameInstance_C_0] {
+  "ecode" : 0,
+  "master" : {
+    "ip" : "127.0.0.1",
+    "port" : 7783
+  },
+  "session_key" : "04da433c84777cbaa53977f79881dc7787aa2c22f521a042446a0ee78c5c3fb8",
+  "success" : true,
+  "user_id" : 4
+}
+[2018.04.01-15.44.17:401][582]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 17:401 ) - Авторизация прошла успешно
+[2018.04.01-15.44.17:401][582]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 17:401 ) - Master server: 127.0.0.1:7783
+[2018.04.01-15.44.17:432][583]LogLowEntrySocket: SocketConnection SendBufferSize changed to 5242880
+[2018.04.01-15.44.17:432][583]LogLowEntrySocket: SocketConnection ReceiveBufferSize changed to 5242880
+[2018.04.01-15.44.17:493][585]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 17:493 ) - Соединение с сервером установлено
+[2018.04.01-15.44.17:493][585]LogBlueprintUserMessages: [CW_GameInstance_C_0] [ CW_GameInstance_C_0 ]: ( 17:493 ) - Send Package: {"action":"get","data":{"entry":"entry"}}
+[2018.04.01-15.44.33:758][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.44.33:796][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/Maps/Login.Login_C' with ClassGeneratedBy '/Game/Maps/Login.Login:PersistentLevel.Login'
+[2018.04.01-15.44.53:760][297]LogSavePackage: Save=77.75ms
+[2018.04.01-15.44.53:760][297]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/PackageLibraryA71BE5CE49E253D311998CBF8FB75D07.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Library/PackageLibrary.uasset'
+[2018.04.01-15.44.53:780][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Blueprints/Library/PackageLibrary.uasset
+[2018.04.01-15.44.53:952][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Login" FILE="../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.01-15.44.54:186][297]LogSavePackage: Save=176.13ms
+[2018.04.01-15.44.54:186][297]LogSavePackage: Moving '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/LoginDB443A614ED914A704ABA887329CAF90.tmp' to '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap'
+[2018.04.01-15.44.54:192][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Maps/Login.umap
+[2018.04.01-15.44.54:273][297]LogFileHelpers: Saving map 'Login' took 0.464
+[2018.04.01-15.44.55:934][298]Cmd: QUIT_EDITOR
+[2018.04.01-15.44.56:729][298]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.01-15.44.56:825][298]LogExit: Preparing to exit.
+[2018.04.01-15.44.57:454][298]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/' was aborted.
+[2018.04.01-15.44.57:999][298]LogExit: Editor shut down
+[2018.04.01-15.44.58:029][298]LogExit: Transaction tracking system shut down
+[2018.04.01-15.44.59:034][298]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.01-15.44.59:035][298]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/' was aborted.
+[2018.04.01-15.44.59:035][298]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.01-15.44.59:035][298]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.01-15.44.59:035][298]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.01-15.45.00:677][298]LogExit: Object subsystem successfully closed.
+[2018.04.01-15.45.00:876][298]LogD3D11RHI: Shutdown
+[2018.04.01-15.45.00:888][298]LogD3D11RHI: CleanupD3DDevice
+[2018.04.01-15.45.00:916][298]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.01-15.45.02:658][298]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (542)
+[2018.04.01-15.45.02:658][298]LogModuleManager: Shutting down and abandoning module SequencerWidgets (540)
+[2018.04.01-15.45.02:658][298]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.04.01-15.45.02:658][298]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (536)
+[2018.04.01-15.45.02:658][298]LogModuleManager: Shutting down and abandoning module DesktopPlatform (534)
+[2018.04.01-15.45.02:695][298]LogModuleManager: Shutting down and abandoning module WorldBrowser (532)
+[2018.04.01-15.45.02:711][298]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2018.04.01-15.45.02:721][298]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2018.04.01-15.45.02:734][298]LogDirectoryWatcher: A directory notification for 'F:/Soft/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.01-15.45.02:739][298]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2018.04.01-15.45.02:739][298]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2018.04.01-15.45.02:739][298]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2018.04.01-15.45.02:754][298]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Collections/' was aborted.
+[2018.04.01-15.45.02:754][298]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/Developers/root/Collections/' was aborted.
+[2018.04.01-15.45.02:754][298]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Saved/Collections/' was aborted.
+[2018.04.01-15.45.02:754][298]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2018.04.01-15.45.02:762][298]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2018.04.01-15.45.02:786][298]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2018.04.01-15.45.02:833][298]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2018.04.01-15.45.02:849][298]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2018.04.01-15.45.02:855][298]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2018.04.01-15.45.02:867][298]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2018.04.01-15.45.02:907][298]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (484)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (482)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (480)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (478)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (476)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2018.04.01-15.45.02:973][298]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2018.04.01-15.45.02:984][298]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2018.04.01-15.45.03:006][298]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2018.04.01-15.45.03:006][298]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2018.04.01-15.45.03:006][298]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2018.04.01-15.45.03:006][298]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2018.04.01-15.45.03:006][298]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2018.04.01-15.45.03:035][298]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (459)
+[2018.04.01-15.45.03:114][298]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.04.01-15.45.03:135][298]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.04.01-15.45.03:185][298]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.04.01-15.45.03:212][298]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.04.01-15.45.03:212][298]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.04.01-15.45.03:213][298]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.04.01-15.45.03:213][298]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.04.01-15.45.03:556][298]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.04.01-15.45.03:556][298]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.04.01-15.45.03:556][298]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.04.01-15.45.03:556][298]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.04.01-15.45.03:581][298]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.04.01-15.45.03:588][298]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.04.01-15.45.03:588][298]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.04.01-15.45.03:600][298]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.04.01-15.45.03:600][298]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.04.01-15.45.03:614][298]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.04.01-15.45.03:623][298]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.04.01-15.45.03:623][298]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.04.01-15.45.03:623][298]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.04.01-15.45.03:623][298]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.04.01-15.45.03:631][298]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.04.01-15.45.03:631][298]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.04.01-15.45.03:631][298]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.04.01-15.45.03:631][298]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.04.01-15.45.03:631][298]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.04.01-15.45.03:653][298]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.04.01-15.45.03:667][298]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.04.01-15.45.03:681][298]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.04.01-15.45.03:692][298]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.04.01-15.45.03:706][298]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.04.01-15.45.03:750][298]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.04.01-15.45.03:786][298]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.04.01-15.45.03:803][298]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.04.01-15.45.03:841][298]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.04.01-15.45.03:841][298]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.04.01-15.45.03:858][298]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.04.01-15.45.03:858][298]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.04.01-15.45.03:902][298]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.04.01-15.45.03:902][298]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.04.01-15.45.03:902][298]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.04.01-15.45.03:935][298]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.04.01-15.45.03:935][298]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.04.01-15.45.03:935][298]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.04.01-15.45.03:941][298]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.04.01-15.45.03:973][298]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.04.01-15.45.03:973][298]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.04.01-15.45.03:986][298]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.04.01-15.45.03:986][298]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.04.01-15.45.03:986][298]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module LauncherPlatform (354)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module AnalyticsET (352)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module PortalServices (350)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module PortalRpc (348)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module MessagingRpc (346)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module AIModule (344)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module GameplayDebugger (343)
+[2018.04.01-15.45.03:987][298]LogModuleManager: Shutting down and abandoning module AITestSuite (341)
+[2018.04.01-15.45.03:997][298]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2018.04.01-15.45.04:155][298]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2018.04.01-15.45.04:175][298]LogModuleManager: Shutting down and abandoning module SteamVRController (334)
+[2018.04.01-15.45.04:175][298]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (332)
+[2018.04.01-15.45.04:175][298]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (330)
+[2018.04.01-15.45.04:175][298]LogModuleManager: Shutting down and abandoning module OculusInput (328)
+[2018.04.01-15.45.04:180][298]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (326)
+[2018.04.01-15.45.04:180][298]LogModuleManager: Shutting down and abandoning module CableComponent (324)
+[2018.04.01-15.45.04:187][298]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (322)
+[2018.04.01-15.45.04:187][298]LogModuleManager: Shutting down and abandoning module ActorSequence (320)
+[2018.04.01-15.45.04:187][298]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (318)
+[2018.04.01-15.45.04:253][298]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (316)
+[2018.04.01-15.45.04:253][298]LogModuleManager: Shutting down and abandoning module MediaCompositing (314)
+[2018.04.01-15.45.04:253][298]LogModuleManager: Shutting down and abandoning module VaRestEditorPlugin (312)
+[2018.04.01-15.45.04:253][298]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibraryEditor (310)
+[2018.04.01-15.45.04:253][298]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.04.01-15.45.04:253][298]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.04.01-15.45.04:261][298]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.04.01-15.45.04:261][298]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.04.01-15.45.04:268][298]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.04.01-15.45.04:268][298]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.04.01-15.45.04:268][298]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.04.01-15.45.04:322][298]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.04.01-15.45.04:349][298]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.04.01-15.45.04:349][298]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2018.04.01-15.45.04:349][298]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2018.04.01-15.45.04:406][298]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2018.04.01-15.45.04:426][298]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2018.04.01-15.45.04:481][298]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2018.04.01-15.45.04:513][298]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2018.04.01-15.45.04:513][298]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2018.04.01-15.45.04:513][298]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2018.04.01-15.45.04:513][298]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2018.04.01-15.45.04:535][298]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2018.04.01-15.45.04:543][298]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2018.04.01-15.45.04:550][298]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2018.04.01-15.45.04:563][298]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2018.04.01-15.45.04:563][298]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2018.04.01-15.45.04:577][298]LogDirectoryWatcher: A directory notification for 'F:/Development/UnrealProject/Netlex/Cyber-War/CyberWar/Binaries/Win64' was aborted.
+[2018.04.01-15.45.04:596][298]LogModuleManager: Shutting down and abandoning module CyberWar (262)
+[2018.04.01-15.45.04:596][298]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.04.01-15.45.04:596][298]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.04.01-15.45.04:596][298]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.04.01-15.45.04:596][298]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.04.01-15.45.04:596][298]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (252)
+[2018.04.01-15.45.04:596][298]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (250)
+[2018.04.01-15.45.04:601][298]LogModuleManager: Shutting down and abandoning module UdpMessaging (248)
+[2018.04.01-15.45.04:722][298]LogModuleManager: Shutting down and abandoning module TcpMessaging (246)
+[2018.04.01-15.45.04:857][298]LogModuleManager: Shutting down and abandoning module VaRestPlugin (244)
+[2018.04.01-15.45.04:876][298]LogModuleManager: Shutting down and abandoning module HTTP (243)
+[2018.04.01-15.45.04:876][298]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.01-15.45.04:891][298]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE19FA71C-45EF-0C79-262E-928B465CB13E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=2c6610f74f8cdf95741746a9d3e8185a%7C8167cdcf23284d0f90b0e1e46bc72afd%7C057141d7-b98d-4be3-b125-df727f93db6b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.01-15.45.04:905][298]LogModuleManager: Shutting down and abandoning module SSL (242)
+[2018.04.01-15.45.04:921][298]LogModuleManager: Shutting down and abandoning module LowEntrySocketConnection (238)
+[2018.04.01-15.45.04:921][298]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibrary (236)
+[2018.04.01-15.45.04:921][298]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2018.04.01-15.45.04:928][298]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (232)
+[2018.04.01-15.45.04:928][298]LogModuleManager: Shutting down and abandoning module FacialAnimation (230)
+[2018.04.01-15.45.04:928][298]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2018.04.01-15.45.04:986][298]LogModuleManager: Shutting down and abandoning module GraphEditor (227)
+[2018.04.01-15.45.04:986][298]LogModuleManager: Shutting down and abandoning module ContentBrowser (225)
+[2018.04.01-15.45.04:988][298]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (222)
+[2018.04.01-15.45.04:988][298]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2018.04.01-15.45.04:988][298]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (218)
+[2018.04.01-15.45.04:993][298]LogModuleManager: Shutting down and abandoning module WmfMedia (216)
+[2018.04.01-15.45.05:008][298]LogModuleManager: Shutting down and abandoning module ImgMedia (214)
+[2018.04.01-15.45.05:008][298]LogModuleManager: Shutting down and abandoning module PacketHandler (212)
+[2018.04.01-15.45.05:008][298]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (210)
+[2018.04.01-15.45.05:008][298]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (208)
+[2018.04.01-15.45.05:024][298]LogModuleManager: Shutting down and abandoning module MediaAssets (206)
+[2018.04.01-15.45.05:024][298]LogModuleManager: Shutting down and abandoning module Media (205)
+[2018.04.01-15.45.05:030][298]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2018.04.01-15.45.05:030][298]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2018.04.01-15.45.05:030][298]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2018.04.01-15.45.05:071][298]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2018.04.01-15.45.05:078][298]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2018.04.01-15.45.05:078][298]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2018.04.01-15.45.05:138][298]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2018.04.01-15.45.05:154][298]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2018.04.01-15.45.05:183][298]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2018.04.01-15.45.05:183][298]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2018.04.01-15.45.05:205][298]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2018.04.01-15.45.05:205][298]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2018.04.01-15.45.05:205][298]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2018.04.01-15.45.05:205][298]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2018.04.01-15.45.05:241][298]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2018.04.01-15.45.05:241][298]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2018.04.01-15.45.05:244][298]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2018.04.01-15.45.05:244][298]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (166)
+[2018.04.01-15.45.05:244][298]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (164)
+[2018.04.01-15.45.05:244][298]LogModuleManager: Shutting down and abandoning module XAudio2 (162)
+[2018.04.01-15.45.05:244][298]LogModuleManager: Shutting down and abandoning module Networking (160)
+[2018.04.01-15.45.05:244][298]LogModuleManager: Shutting down and abandoning module Core (156)
+[2018.04.01-15.45.05:244][298]LogModuleManager: Shutting down and abandoning module LevelSequence (152)
+[2018.04.01-15.45.05:260][298]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (150)
+[2018.04.01-15.45.05:260][298]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.01-15.45.05:261][298]LogDirectoryWatcher: A directory notification for '../../../../../../Development/UnrealProject/Netlex/Cyber-War/CyberWar/Content/' was aborted.
+[2018.04.01-15.45.05:268][298]LogModuleManager: Shutting down and abandoning module KismetCompiler (148)
+[2018.04.01-15.45.05:269][298]LogModuleManager: Shutting down and abandoning module MeshUtilities (146)
+[2018.04.01-15.45.05:287][298]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (145)
+[2018.04.01-15.45.05:301][298]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (144)
+[2018.04.01-15.45.05:301][298]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (143)
+[2018.04.01-15.45.05:308][298]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (141)
+[2018.04.01-15.45.05:308][298]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (139)
+[2018.04.01-15.45.05:315][298]LogModuleManager: Shutting down and abandoning module MaterialBaking (135)
+[2018.04.01-15.45.05:323][298]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2018.04.01-15.45.05:378][298]LogDerivedDataCache: Shutdown
+[2018.04.01-15.45.05:378][298]LogModuleManager: Shutting down and abandoning module TargetPlatform (130)
+[2018.04.01-15.45.05:378][298]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (129)
+[2018.04.01-15.45.05:385][298]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (127)
+[2018.04.01-15.45.05:400][298]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (125)
+[2018.04.01-15.45.05:412][298]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (123)
+[2018.04.01-15.45.05:412][298]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (121)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (119)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (117)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (115)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (113)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (111)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module ImageWrapper (110)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (107)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (105)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (103)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (101)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (99)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (97)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (95)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (93)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (91)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module Messaging (89)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (87)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (85)
+[2018.04.01-15.45.05:431][298]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (83)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (81)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (79)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (77)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (75)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (73)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (71)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (69)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (67)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (65)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (63)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (61)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (59)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (57)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (55)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (53)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (51)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module InputCore (48)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module Settings (46)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module PhysXCooking (44)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module SteamVR (42)
+[2018.04.01-15.45.05:432][298]LogModuleManager: Shutting down and abandoning module OculusHMD (40)
+[2018.04.01-15.45.05:446][298]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (38)
+[2018.04.01-15.45.05:446][298]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.01-15.45.05:457][298]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.01-15.45.05:457][298]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.01-15.45.05:468][298]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.01-15.45.05:504][298]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.01-15.45.05:504][298]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.01-15.45.05:504][298]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.01-15.45.05:530][298]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.01-15.45.05:550][298]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.01-15.45.05:550][298]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.01-15.45.05:566][298]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.01-15.45.05:566][298]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.01-15.45.05:579][298]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.01-15.45.05:579][298]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.01-15.45.05:586][298]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.01-15.45.05:586][298]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.01-15.45.05:592][298]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.01-15.45.05:597][298]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.01-15.45.05:615][298]LogExit: Exiting.
+[2018.04.01-15.45.05:637][298]Log file closed, 04/01/18 18:45:05
