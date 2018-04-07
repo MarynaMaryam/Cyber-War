@@ -1,6 +1,7 @@
 package protocols;
 
 
+import Models.Items;
 import database.Database;
 import lowentry.ue4.libs.jackson.databind.JsonNode;
 
@@ -14,55 +15,13 @@ import java.util.HashMap;
  */
 public class Player
 {
-	public static HashMap<String, Object> Create(Models.Session session, JsonNode dataNode)
-	{
-		HashMap<String,Object> data = new HashMap<String,Object>();
-
-		int Points = 1000000;
-
-		data.put("success", false);
-		data.put("ecode", 0);
-		JsonNode dataNameNode = dataNode.get("name");
-
-		if(dataNameNode != null)
-		{
-			String dataName = dataNameNode.textValue();
-
-			if(dataName.length() > 3 && dataName.length() < 15)
-			{
-				ResultSet rs = Database.SendSelectQuery("SELECT count(*) FROM players WHERE name='" + dataName + "'");
-				try
-				{
-					if(rs.next())
-					{
-						if(rs.getInt(1) == 0)
-						{
-							Database.SendUpdateQuery("INSERT INTO players (a_id, name, points) VALUES (" + session.account.ID + ", '" + dataName + "', " + Points + ")");
-							data.replace("success", true);
-						}
-						else
-							data.replace("ecode", 7);
-					}
-				}
-				catch(SQLException e)
-				{
-					e.printStackTrace();
-				}
-			}
-			else
-				data.replace("ecode", 6);
-		}
-
-		return data;
-	}
-
 	public static HashMap<String, Object> Get(Models.Session session)
 	{
 		HashMap<String, Object> data = new HashMap<String, Object>();
 
 		data.put("success", false);
 		data.put("ecode", 0);
-		ResultSet rs = Database.SendSelectQuery("SELECT * FROM players WHERE a_id=" + session.account.ID);
+		ResultSet rs = Database.SendSelectQuery("SELECT * FROM players WHERE a_id=" + session.AccountID);
 
 		try
 		{
@@ -88,6 +47,11 @@ public class Player
 			}
 			else
 				data.replace("ecode", 2);
+
+			rs = Database.SendSelectQuery("SELECT money FROM accounts WHERE id=" + session.AccountID);
+
+			if(rs.first())
+				data.put("money", rs.getInt("money"));
 		}
 		catch(SQLException e)
 		{

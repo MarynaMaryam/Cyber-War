@@ -18,11 +18,6 @@ public class LaunchLogin
 {
 	public static Settings.Config config;
 
-	public static class ClientSession
-	{
-		public boolean isAuthenticated = false;
-	}
-
 
 	public static void main(final String[] args) throws Throwable
 	{
@@ -36,14 +31,14 @@ public class LaunchLogin
 			@Override public void clientConnected(final SocketServer server, final SocketClient client)
 			{
 				// initialize the attachment object
-				client.setAttachment(new LaunchLogin.ClientSession());
+				client.setAttachment(new Models.Session());
 				System.out.println(client + " connected");
 			}
 
 			@Override public void clientDisconnected(final SocketServer server, final SocketClient client)
 			{
 				// initialize the attachment object
-				LaunchLogin.ClientSession Session = client.getAttachment();
+				Models.Session Session = client.getAttachment();
 				System.out.println(client + " disconnected");
 			}
 
@@ -80,8 +75,8 @@ public class LaunchLogin
 			{
 				// only allow 200B and less when the client hasn't authenticated yet
 
-				LaunchLogin.ClientSession session = client.getAttachment();
-				if(!session.isAuthenticated)
+				Models.Session session = client.getAttachment();
+				if(!session.IsAuth)
 				{
 					return (bytes <= 200); // this will only allow packets of 200B and less
 				}
@@ -99,8 +94,8 @@ public class LaunchLogin
 			{
 				// only allow 200B and less when the client hasn't authenticated yet
 
-				LaunchLogin.ClientSession session = client.getAttachment();
-				if(!session.isAuthenticated)
+				Models.Session session = client.getAttachment();
+				if(!session.IsAuth)
 				{
 					return (bytes <= 200); // this will only allow packets of 200B and less
 				}
@@ -110,7 +105,7 @@ public class LaunchLogin
 
 			@Override public void receivedLatentFunctionCall(SocketServer server, SocketClient client, byte[] bytes, final LatentResponse response)
 			{
-				ClientSession session = client.getAttachment();
+				Models.Session session = client.getAttachment();
 				HashMap<String,Object> data = new HashMap<String,Object>();
 
 				String jsonString = LowEntry.bytesToStringUtf8(bytes);
@@ -134,7 +129,7 @@ public class LaunchLogin
 							data.put("success", false);
 							data.put("ecode", 0);
 
-							if(session.isAuthenticated)
+							if(session.IsAuth)
 							{
 								switch(action)
 								{
@@ -166,8 +161,8 @@ public class LaunchLogin
 								{
 									if(dataVersionNode.textValue().equals(Version))
 									{
-										LaunchLogin.ClientSession Session = client.getAttachment();
-										Session.isAuthenticated = true;
+										Models.Session Session = client.getAttachment();
+										Session.IsAuth = true;
 										client.setAttachment(Session);
 										data.replace("success", true);
 									}

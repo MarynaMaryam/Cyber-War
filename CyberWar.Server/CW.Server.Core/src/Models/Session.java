@@ -7,5 +7,7 @@ package Models;
 public class Session
 {
 	public boolean IsAuth = false;
-	public Account account = new Account();
+	public int AccountID;
+	public int PlayerId;
+	public String SessionKey;
 }

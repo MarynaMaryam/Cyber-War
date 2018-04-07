@@ -1,4 +1,4 @@
-import Models.Account;
+import Models.Items;
 import database.Database;
 import lowentry.ue4.classes.sockets.*;
 import lowentry.ue4.library.LowEntry;
@@ -26,6 +26,7 @@ public class LaunchLobby
 		System.out.println("Configuration loaded");
 		Database.Connection(Settings.GetConfig("Database"));
 		int Port = Encode.RandomInt(7784, 9999);
+		UpdateItems();
 
 		SocketConnectionListener master = new SocketConnectionListener()
 		{
@@ -43,6 +44,7 @@ public class LaunchLobby
 				data.put("ip", "127.0.0.1");
 				data.put("port", Port);
 				data.put("max_players", 100);
+				data.put("game_mode", null);
 				root.put("data", data);
 
 				connection.sendLatentFunctionCall(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(root)), new SocketConnection.LatentFunctionCallListener()
@@ -83,7 +85,7 @@ public class LaunchLobby
 
 											if(Session.IsAuth)
 											{
-												Database.SendUpdateQuery("UPDATE accounts SET status=0 WHERE session_key='" + Session.account.SessionKey + "'");
+												Database.SendUpdateQuery("UPDATE accounts SET status=0 WHERE session_key='" + Session.SessionKey + "'");
 											}
 
 											System.out.println(client + " disconnected");
@@ -180,15 +182,12 @@ public class LaunchLobby
 																case "get_player":
 																	response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(Player.Get(session), true)));
 																	break;
-
-																case "create_player":
-																	response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(Player.Create(session, dataNode), true)));
-																	break;
 															}
 														}
 														else if(action.equals("auth"))
 														{
 															data.put("success", false);
+															data.put("ecode", 0);
 															JsonNode dataSessionKeyNode = dataNode.get("session_key");
 
 															if(dataSessionKeyNode != null)
@@ -199,24 +198,28 @@ public class LaunchLobby
 																{
 																	ResultSet rs = Database.SendSelectQuery("SELECT * FROM accounts WHERE session_key='" + SessionKey + "'");
 
-																	if(rs.first())
+																	if(rs.next())
 																	{
 																		session.IsAuth = true;
-																		session.account.SessionKey = SessionKey;
-																		session.account.ID = rs.getInt("id");
-																		session.account.Login = rs.getString("login");
-																		client.setAttachment(session);
+																		session.SessionKey = SessionKey;
+																		session.AccountID = rs.getInt("id");
+																	}
 
-																		Database.SendUpdateQuery("UPDATE accounts SET status=1 WHERE id=" + session.account.ID);
+																	rs = Database.SendSelectQuery("SELECT id FROM players WHERE a_id=" + session.AccountID);
+
+																	if(rs.next())
+																	{
+																		session.PlayerId = rs.getInt(1);
+																		client.setAttachment(session);
 																		data.replace("success", true);
 																	}
 																	else
-																		data.replace("success", false);
+																		data.replace("ecode", 2);
 																}
 																catch(SQLException e)
 																{
 																	e.printStackTrace();
-																	data.replace("success", false);
+																	data.replace("ecode", 1);
 																}
 
 																response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(data, true)));
@@ -311,6 +314,35 @@ public class LaunchLobby
 		while(connection.isConnected())
 		{
 			connection.listen();
+		}
+	}
+
+	private static void UpdateItems()
+	{
+		Items.GetItems = new HashMap<Integer,Items.Item>();
+
+		ResultSet rs = Database.SendSelectQuery("SELECT * FROM items");
+
+		try
+		{
+			int i = 0;
+
+			while(rs.next())
+			{
+				Models.Items.Item item = new Items.Item();
+
+				item.Team = rs.getInt(2);
+				item.Slot = rs.getInt(3);
+				item.SubSlot = rs.getInt(4);
+
+				Items.GetItems.put(rs.getInt(1), item);
+				i++;
+			}
+
+		}
+		catch(SQLException e)
+		{
+			e.printStackTrace();
 		}
 	}
 }

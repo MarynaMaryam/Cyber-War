@@ -1,0 +1,328 @@
+﻿Log file open, 04/03/18 23:25:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CyberWar
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-327724609) SRandInit(-327724609).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.151691
+LogD3D11RHI: Aftermath initialized
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestEditorPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntrySocketConnection/Binaries/Win64/UE4Editor-LowEntrySocketConnection.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibraryEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Qos.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Party.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Lobby.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Hotfix.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Rejoin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-LoginFlow.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin LowEntrySocketConnection
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  /Game/Maps/Testing -game -PIEVIACONSOLE -ResX=640 -ResY=480  -Multiprocess -messaging -SessionName="Play in Standalone Game" -port=17777 -windowed GameUserSettingsINI="F:/Development/Mary/Cyber-War/CyberWar/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig  -MultiprocessOSS -server -log 
+LogInit: Base directory: F:/Soft/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.03-20.25.25:515][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-20.25.25:515][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.03-20.25.25:523][  0]LogInit: Computer: DESKTOP-38OIRC4
+[2018.04.03-20.25.25:526][  0]LogInit: User: root
+[2018.04.03-20.25.25:527][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.03-20.25.25:528][  0]LogInit: High frequency timer resolution =2.825500 MHz
+[2018.04.03-20.25.25:529][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.03-20.25.25:529][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.03-20.25.25:530][  0]LogMemory: Process Physical Memory: 275.24 MB used, 275.24 MB peak
+[2018.04.03-20.25.25:530][  0]LogMemory: Process Virtual Memory: 271.34 MB used, 271.34 MB peak
+[2018.04.03-20.25.25:531][  0]LogMemory: Physical Memory: 5957.67 MB used,  2151.62 MB free, 8109.29 MB total
+[2018.04.03-20.25.25:531][  0]LogMemory: Virtual Memory: 674.89 MB used,  2151.62 MB free, 134217728.00 MB total
+[2018.04.03-20.25.25:681][  0]LogInit: Using OS detected language (ru-RU).
+[2018.04.03-20.25.25:681][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.04.03-20.25.25:686][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.04.03-20.25.25:687][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.04.03-20.25.26:328][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Development/Mary/Cyber-War/CyberWar/Intermediate/Shaders/WorkingDirectory/13428/).
+[2018.04.03-20.25.26:328][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/root/AppData/Local/Temp/UnrealShaderWorkingDir/14A27AF04A4375FC6DBC8489D7F6C559/'.
+[2018.04.03-20.25.26:329][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.03-20.25.27:103][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.03-20.25.27:268][  0]LogDerivedDataCache: Loaded boot cache 0.16s 84MB C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.03-20.25.27:268][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/root/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.03-20.25.27:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Development/Mary/Cyber-War/CyberWar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.03-20.25.27:273][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.03-20.25.27:287][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Development/Mary/Cyber-War/CyberWar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.03-20.25.27:299][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.03-20.25.27:335][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.03-20.25.27:355][  0]LogDerivedDataCache: Using Local data cache path C:/Users/root/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.03-20.25.27:734][  0]LogAssetRegistry: FAssetRegistry took 0.0193 seconds to start up
+[2018.04.03-20.25.27:748][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.013666 seconds
+[2018.04.03-20.25.28:263][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.03-20.25.28:318][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.03-20.25.28:378][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.03-20.25.28:418][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.03-20.25.28:418][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.03-20.25.28:831][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-20.25.29:063][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.03-20.25.29:109][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.03-20.25.29:109][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.03-20.25.29:110][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.03-20.25.29:110][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.03-20.25.29:111][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.03-20.25.29:137][  0]LogNetVersion: CyberWar , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2311747216)
+[2018.04.03-20.25.29:352][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.03-20.25.29:354][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.03-20.25.29:356][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.03-20.25.29:551][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.03-20.25.30:513][  0]LogCollectionManager: Loaded 0 collections in 0.000859 seconds
+[2018.04.03-20.25.30:569][  0]LogFileCache: Scanning file cache for directory 'F:/Development/Mary/Cyber-War/CyberWar/Saved/Collections/' took 0.01s
+[2018.04.03-20.25.30:569][  0]LogFileCache: Scanning file cache for directory 'F:/Development/Mary/Cyber-War/CyberWar/Content/Developers/root/Collections/' took 0.01s
+[2018.04.03-20.25.30:571][  0]LogFileCache: Scanning file cache for directory 'F:/Development/Mary/Cyber-War/CyberWar/Content/Collections/' took 0.01s
+[2018.04.03-20.25.30:575][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.03-20.25.30:581][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012017 seconds (updated 0 objects)
+[2018.04.03-20.25.31:421][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.03-20.25.31:457][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.03-20.25.31:845][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.04.03-20.25.31:847][  0]SourceControl: Source control is disabled
+[2018.04.03-20.25.31:847][  0]SourceControl: Source control is disabled
+[2018.04.03-20.25.31:922][  0]SourceControl: Source control is disabled
+[2018.04.03-20.25.32:691][  0]LogOcInput: OculusInput pre-init called
+[2018.04.03-20.25.32:793][  0]LogUObjectArray: 40224 objects as part of root set at end of initial load.
+[2018.04.03-20.25.32:793][  0]LogUObjectAllocator: 8345080 out of 0 bytes used by permanent object pool.
+[2018.04.03-20.25.32:794][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.03-20.25.32:913][  0]LogEngine: Initializing Engine...
+[2018.04.03-20.25.32:959][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.03-20.25.32:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.03-20.25.32:992][  0]LogInit: Texture streaming: Disabled
+[2018.04.03-20.25.33:014][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.03-20.25.36:208][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.03-20.25.36:375][  0]LogInit: Display: Game Engine Initialized.
+[2018.04.03-20.25.36:375][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.03-20.25.36:543][  0]LogInit: Display: Starting Game.
+[2018.04.03-20.25.36:544][  0]LogNet: Browse: /Game/Maps/Testing?Name=Player
+[2018.04.03-20.25.36:546][  0]LogLoad: LoadMap: /Game/Maps/Testing?Name=Player
+[2018.04.03-20.25.36:851][  0]LogAIModule: Creating AISystem for world Testing
+[2018.04.03-20.25.36:852][  0]LogLoad: Game class is 'CW_GameMode_C'
+[2018.04.03-20.25.36:853][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.03-20.25.36:853][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.04.03-20.25.36:855][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.03-20.25.36:855][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.04.03-20.25.36:861][  0]LogInit: WinSock: I am DESKTOP-38OIRC4 (192.168.1.104:0)
+[2018.04.03-20.25.36:863][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.03-20.25.36:866][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.04.03-20.25.36:887][  0]LogWorld: Bringing World /Game/Maps/Testing.Testing up for play (max tick rate 30) at 2018.04.03-23.25.36
+[2018.04.03-20.25.36:888][  0]LogWorld: Bringing up level for play took: 0.016122
+[2018.04.03-20.25.36:889][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.03-20.25.36:892][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.03-20.25.36:892][  0]LogLoad: Took 0.346201 seconds to LoadMap(/Game/Maps/Testing)
+[2018.04.03-20.25.37:039][  0]LogLoad: (Engine Initialization) Total time: 16.08 seconds
+[2018.04.03-20.25.37:039][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.03-20.25.37:040][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.03-20.25.37:040][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.03-20.25.37:871][ 23]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1050
+[2018.04.03-20.25.37:871][ 23]LogHandshake: SendConnectChallenge. Timestamp: 0.829858, Cookie: 145076125002053030231217224231121127236228234233214179080046
+[2018.04.03-20.25.38:205][ 33]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1050
+[2018.04.03-20.25.38:205][ 33]LogHandshake: SendChallengeAck. InCookie: 145076125002053030231217224231121127236228234233214179080046
+[2018.04.03-20.25.38:206][ 33]LogNet: Server accepting post-challenge connection from: 127.0.0.1:1050
+[2018.04.03-20.25.38:206][ 33]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.03-20.25.38:207][ 33]LogNet: NotifyAcceptedConnection: Name: Testing, TimeStamp: 04/03/18 23:25:38, [UNetConnection] RemoteAddr: 127.0.0.1:1050, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.04.03-20.25.38:207][ 33]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:1050, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.04.03-20.25.38:535][ 43]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Testing.Testing: Accepted
+[2018.04.03-20.25.38:537][ 43]LogNet: Remote platform little endian=1
+[2018.04.03-20.25.38:537][ 43]LogNet: This platform little endian=1
+[2018.04.03-20.25.38:538][ 43]LogNetVersion: CyberWar 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2574365049)
+[2018.04.03-20.25.38:869][ 53]LogNet: Login request: /Game/Maps/Testing userId: Invalid
+[2018.04.03-20.25.39:202][ 63]LogNet: Client netspeed is 10000
+[2018.04.03-20.25.39:270][ 65]LogNet: Join request: /Game/Maps/Testing?SplitscreenCount=1
+[2018.04.03-20.25.39:275][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Blueprints/Online/CW_GameMode.CW_GameMode_C:GetPlayerStart'!
+[2018.04.03-20.25.39:275][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Blueprints/Online/CW_GameMode.CW_GameMode_C:GetPlayerStart'!
+[2018.04.03-20.25.39:278][ 65]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.03-20.25.39:292][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Blueprints/Online/CW_GameMode.CW_GameMode_C:GetPlayerStart'!
+[2018.04.03-20.25.39:320][ 65]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] :( 39:320 ) - OnSelectedWeapon
+[2018.04.03-20.25.39:323][ 65]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] :( 39:323 ) - Новый владелец
+[2018.04.03-20.25.39:327][ 65]LogBlueprintUserMessages: [Weap_KnifeCombat_C_0] :( 39:326 ) - OnCaseWeapon
+[2018.04.03-20.25.39:327][ 65]LogBlueprintUserMessages: [Weap_Deagle_C_4] :( 39:327 ) - OnSelectedWeapon
+[2018.04.03-20.25.39:327][ 65]LogBlueprintUserMessages: [Weap_Deagle_C_4] :( 39:327 ) - Новый владелец
+[2018.04.03-20.25.39:337][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:339][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:340][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:340][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 3 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:342][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 3 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:343][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 3 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:343][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:344][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:345][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:346][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:346][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:347][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 2 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:347][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 1 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:348][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 1 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:348][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Temp_struct_Variable' of length 1 in '/Game/Blueprints/Weapon/WeapParts.WeapParts_C:UpdatePartMeshes'!
+[2018.04.03-20.25.39:352][ 65]LogBlueprintUserMessages: [Weap_Deagle_C_4] :( 39:352 ) - OnCaseWeapon
+[2018.04.03-20.25.39:356][ 65]LogBlueprintUserMessages: [Weap_AK47_C_14] :( 39:356 ) - OnSelectedWeapon
+[2018.04.03-20.25.39:356][ 65]LogBlueprintUserMessages: [Weap_AK47_C_14] :( 39:356 ) - Новый владелец
+[2018.04.03-20.25.39:358][ 65]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.03-20.25.39:358][ 65]LogNet: Join succeeded: 256
+[2018.04.03-20.25.39:359][ 65]LogScript: Warning: UGameplayStatics::SpawnObject no class specified
