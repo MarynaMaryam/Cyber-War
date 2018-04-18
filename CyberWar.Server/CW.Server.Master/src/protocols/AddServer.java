@@ -26,7 +26,8 @@ public class AddServer
 		JsonNode dataIpNode = dataNode.get("ip");
 		JsonNode dataPortNode = dataNode.get("port");
 		JsonNode dataMaxPlayersNode = dataNode.get("max_players");
-		JsonNode dataGameModeNode = dataNode.get("game_mode");
+		JsonNode dataGameModeNode = dataNode.get("mode");
+		JsonNode dataNameNode = dataNode.get("name");
 
 		if(dataTypeNode != null && dataIpNode != null && dataPortNode != null && dataMaxPlayersNode != null)
 		{
@@ -34,16 +35,20 @@ public class AddServer
 			String dataIp = dataIpNode.textValue();
 			int dataPort = dataPortNode.intValue();
 			int dataMaxPlayers = dataMaxPlayersNode.intValue();
-			String dataGameMode = "Lobby server";
+			String dataGameMode = "Lobby";
+			String dataName = "None";
 
-			if(dataGameModeNode != null && dataType == 2)
+			if(dataGameModeNode != null && dataType == 2 && dataNameNode != null)
+			{
 				dataGameMode = dataGameModeNode.textValue();
+				dataName = dataNameNode.textValue();
+			}
 
 			try
 			{
 				if(!Database.SendSelectQuery("SELECT * FROM servers WHERE ip='" + dataIp + "' AND port='" + dataPort + "'").next())
 				{
-					Database.SendUpdateQuery("INSERT INTO servers (type, ip, port, max_players, game_mode) VALUES ('" + dataType + "', '" + dataIp + "', '" + dataPort + "', '" + dataMaxPlayers + "', '" + dataGameMode + "')");
+					Database.SendUpdateQuery("INSERT INTO servers (name, type, ip, port, max_players, game_mode) VALUES ('" + dataName + "', '" + dataType + "', '" + dataIp + "', '" + dataPort + "', '" + dataMaxPlayers + "', '" + dataGameMode + "')");
 					System.out.println("Add Server: Type: " + dataType + ", Address: " + dataIp + ":" + dataPort);
 					ResultSet rs = Database.SendSelectQuery("SELECT id FROM servers WHERE ip='" + dataIp + "' AND port='" + dataPort + "'");
 					if(rs.next())

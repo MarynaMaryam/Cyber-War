@@ -42,8 +42,6 @@ public class GetServers
 
 			if(dataType > 0)
 				rs = Database.SendSelectQuery("SELECT * FROM servers WHERE type=" + dataType);
-			else
-				rs = Database.SendSelectQuery("SELECT * FROM servers WHERE type=2");
 
 			if(rs.next())
 			{
@@ -56,11 +54,13 @@ public class GetServers
 					metadata = new HashMap<String,Object>();
 
 					metadata.put("id", rs.getInt("id"));
+					metadata.put("name", rs.getString("name"));
 					metadata.put("type", rs.getInt("type"));
 					metadata.put("ip", rs.getString("ip"));
 					metadata.put("port", rs.getInt("port"));
 					metadata.put("max_players", rs.getInt("max_players"));
 					metadata.put("current_players", rs.getInt("current_players"));
+					metadata.put("mode", rs.getString("game_mode"));
 
 					arrayServers[0] = metadata;
 
@@ -69,11 +69,13 @@ public class GetServers
 						metadata = new HashMap<String,Object>();
 
 						metadata.put("id", rs.getInt("id"));
+						metadata.put("name", rs.getString("name"));
 						metadata.put("type", rs.getInt("type"));
 						metadata.put("ip", rs.getString("ip"));
 						metadata.put("port", rs.getInt("port"));
 						metadata.put("max_players", rs.getInt("max_players"));
 						metadata.put("current_players", rs.getInt("current_players"));
+						metadata.put("mode", rs.getString("game_mode"));
 
 						arrayServers[i] = metadata;
 

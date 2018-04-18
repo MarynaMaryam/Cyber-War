@@ -90,40 +90,6 @@ public class LaunchMaster
 
 			@Override public byte[] receivedFunctionCall(final SocketServer server, final SocketClient client, final byte[] bytes)
 			{
-				HashMap<String,Object> data = new HashMap<String,Object>();
-
-				String jsonString = LowEntry.bytesToStringUtf8(bytes);
-				System.out.println(client + ": Receive Package: " + jsonString);
-				JsonNode root = LowEntry.parseJsonString(jsonString);
-
-				if(root == null)
-				{
-					System.out.println("parsing failed");
-				}
-				else
-				{
-					JsonNode actionNode = root.get("action");
-
-					if(actionNode != null)
-					{
-						String action = actionNode.textValue();
-						JsonNode dataNode = root.get("data");
-
-						if(dataNode != null)
-						{
-							if(action.equals("get"))
-							{
-								return LowEntry.stringToBytesUtf8(LowEntry.toJsonString(GetServers.Handle(dataNode)));
-							}
-							else
-								System.out.println("action none");
-						}
-						else
-							System.out.println("data failed");
-					}
-					else
-						System.out.println("action failed");
-				}
 				return null;
 			}
 
@@ -135,8 +101,6 @@ public class LaunchMaster
 
 			@Override public void receivedLatentFunctionCall(SocketServer server, SocketClient client, byte[] bytes, final LatentResponse response)
 			{
-				HashMap<String,Object> data = new HashMap<String,Object>();
-
 				String jsonString = LowEntry.bytesToStringUtf8(bytes);
 				System.out.println(client + ": Receive Package: " + jsonString);
 				JsonNode root = LowEntry.parseJsonString(jsonString);
@@ -156,17 +120,13 @@ public class LaunchMaster
 
 						if(dataNode != null)
 						{
-							data.put("success", false);
-
 							switch(action)
 							{
-								case "set":
-
-									break;
+								case "get_server_list":
+									response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(GetServers.Handle(dataNode), true)));
 
 								case "add":
 									HashMap<String,Object> resultAdd = AddServer.Handle(dataNode);
-									response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(resultAdd, true)));
 
 									if(resultAdd.get("success").equals(true))
 									{
@@ -176,8 +136,8 @@ public class LaunchMaster
 										session.ServerId = (int) resultAdd.get("id");
 										client.setAttachment(session);
 									}
-									break;
 
+									response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(resultAdd, true)));
 							}
 						}
 						else
