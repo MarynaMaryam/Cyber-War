@@ -10,9 +10,12 @@ import protocols.AddServer;
 import protocols.GetServers;
 
 import java.nio.ByteBuffer;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.HashMap;
-
-
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class LaunchMaster
 {
@@ -24,7 +27,6 @@ public class LaunchMaster
 		public int ServerId = 0;
 	}
 
-
 	public static void main(final String[] args) throws Throwable
 	{
 		config = Settings.GetConfig("Server");
@@ -32,6 +34,8 @@ public class LaunchMaster
 		Database.Connection(Settings.GetConfig("Database"));
 
 		Database.SendUpdateQuery("DELETE FROM servers");
+
+		ExecutorService executor = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
 
 		SocketServerListener listener = new SocketServerListener()
 		{
@@ -48,7 +52,16 @@ public class LaunchMaster
 					LaunchMaster.ClientSession Session = client.getAttachment();
 					if(Session.isRegistration)
 					{
-						Database.SendUpdateQuery("DELETE FROM servers WHERE id='" + Session.ServerId + "'");
+						try
+						{
+							PreparedStatement ps = Database.getConnection().prepareStatement("DELETE FROM servers WHERE id=?");
+							ps.setInt(1, Session.ServerId);
+							ps.executeUpdate();
+						}
+						catch(SQLException e)
+						{
+							e.printStackTrace();
+						}
 					}
 					System.out.println(client + " server " + Session.ServerId + " deleted");
 				}
@@ -101,51 +114,58 @@ public class LaunchMaster
 
 			@Override public void receivedLatentFunctionCall(SocketServer server, SocketClient client, byte[] bytes, final LatentResponse response)
 			{
-				String jsonString = LowEntry.bytesToStringUtf8(bytes);
-				System.out.println(client + ": Receive Package: " + jsonString);
-				JsonNode root = LowEntry.parseJsonString(jsonString);
-
-				if(root == null)
+				executor.execute(new Runnable()
 				{
-					System.out.println("parsing failed");
-				}
-				else
-				{
-					JsonNode actionNode = root.get("action");
-
-					if(actionNode != null)
+					@Override
+					public void run()
 					{
-						String action = actionNode.textValue();
-						JsonNode dataNode = root.get("data");
+						String jsonString = LowEntry.bytesToStringUtf8(bytes);
+						System.out.println(client + ": Receive Package: " + jsonString);
+						JsonNode root = LowEntry.parseJsonString(jsonString);
 
-						if(dataNode != null)
+						if(root == null)
 						{
-							switch(action)
-							{
-								case "get_server_list":
-									response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(GetServers.Handle(dataNode), true)));
-
-								case "add":
-									HashMap<String,Object> resultAdd = AddServer.Handle(dataNode);
-
-									if(resultAdd.get("success").equals(true))
-									{
-										client.setAttachment(new LaunchMaster.ClientSession());
-										ClientSession session = client.getAttachment();
-										session.isRegistration = true;
-										session.ServerId = (int) resultAdd.get("id");
-										client.setAttachment(session);
-									}
-
-									response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(resultAdd, true)));
-							}
+							System.out.println("parsing failed");
 						}
 						else
-							System.out.println("data failed");
+						{
+							JsonNode actionNode = root.get("action");
+
+							if(actionNode != null)
+							{
+								String action = actionNode.textValue();
+								JsonNode dataNode = root.get("data");
+
+								if(dataNode != null)
+								{
+									switch(action)
+									{
+										case "get_server_list":
+											response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(GetServers.Handle(dataNode), true)));
+
+										case "add":
+											HashMap<String,Object> resultAdd = AddServer.Handle(dataNode);
+
+											if(resultAdd.get("success").equals(true))
+											{
+												client.setAttachment(new LaunchMaster.ClientSession());
+												ClientSession session = client.getAttachment();
+												session.isRegistration = true;
+												session.ServerId = (int) resultAdd.get("id");
+												client.setAttachment(session);
+											}
+
+											response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(resultAdd, true)));
+									}
+								}
+								else
+									System.out.println("data failed");
+							}
+							else
+								System.out.println("action failed");
+						}
 					}
-					else
-						System.out.println("action failed");
-				}
+				});
 			}
 		};
 

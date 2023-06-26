@@ -63,4 +63,8 @@ public class Database
 		catch(SQLException se)
 		{ /*can't do anything */ }
 	}
+	public static Connection getConnection() {
+		return con;
+	}
+
 }

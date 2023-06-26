@@ -213,10 +213,10 @@ public class LaunchLobby
 										response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(Player.Get(session), true)));
 
 									case "get_inventory":
-										response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(Inventory.Get(session), true)));
+										response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(Inventory.getInventory(session), true)));
 
 									case "selected_item_inventory":
-										response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(Inventory.Selected(session, dataNode), true)));
+										response.done(LowEntry.stringToBytesUtf8(LowEntry.toJsonString(Inventory.selectItem(session, dataNode), true)));
 
 									case "get_server_list":
 
