@@ -23,9 +23,9 @@ public class Registration
 		int DefaultsItems[] = new int[5];
 		DefaultsItems[0] = 1000;
 		DefaultsItems[1] = 2000;
-		DefaultsItems[2] = 1001;
-		DefaultsItems[3] = 2001;
-		DefaultsItems[4] = 3001;
+		DefaultsItems[2] = 10001;
+		DefaultsItems[3] = 20001;
+		DefaultsItems[4] = 30001;
 		int AccountId = 0;
 
 		JsonNode dataLoginNode = dataNode.get("login");
