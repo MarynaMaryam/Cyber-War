@@ -1,5 +1,5 @@
 #CYBERWAR
-### This project is under development, anyone who wants to contribute, write to discord: luckyark
+### This project is under development.
 
 #### **Description**:
 A network shooter with a 1st 3rd person view on the [Unreal Engine 5] engine (https://www.unrealengine.com/), in which players, divided into teams, perform various tasks and confront each other in different modes, Weapon customization is also available in the game.
