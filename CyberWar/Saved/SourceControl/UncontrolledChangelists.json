@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/range/Documents/GitHub/Cyber-War/CyberWar/Content/UI/Pages/PageLogin.uasset",
+				"C:/Users/range/Documents/GitHub/Cyber-War/CyberWar/Content/Blueprints/Engine/CW_GameInstance.uasset",
+				"C:/Users/range/Documents/GitHub/Cyber-War/CyberWar/Content/Blueprints/Online/CW_Login_GameMode.uasset",
+				"C:/Users/range/Documents/GitHub/Cyber-War/CyberWar/Content/Archetypes/Online/ServerManager.uasset"
+			]
+		}
+	]
+}

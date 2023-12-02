@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002c43cd-99d7-486a-b015-033cad362fb3" name="Default" comment="" />
+    <list default="true" id="002c43cd-99d7-486a-b015-033cad362fb3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CW.Server.Login/src/LaunchLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/CW.Server.Login/src/LaunchLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CyberWar/CyberWar.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/../CyberWar/CyberWar.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CyberWar/Intermediate/CachedAssetRegistry.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CyberWar/Intermediate/ReimportCache/3688439234.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CyberWar/Intermediate/ReimportCache/3688439234.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CyberWar/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/../CyberWar/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,6 +128,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -476,35 +486,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/range/OneDrive/Рабочий стол/CyberWar.Server/Libs/2016-12-26_17-46.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;FeaturesTrainerSettingsPanel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/range/Documents/GitHub/Cyber-War/CyberWar.Server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "FeaturesTrainerSettingsPanel",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="protocols" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LaunchMaster">
+  <component name="RunManager" selected="Application.LaunchLobby">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -780,8 +790,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LaunchMaster" />
         <item itemvalue="Application.LaunchLobby" />
+        <item itemvalue="Application.LaunchMaster" />
         <item itemvalue="Application.LaunchLogin" />
       </list>
     </recent_temporary>
@@ -830,6 +840,7 @@
       <workItem from="1687371030238" duration="765000" />
       <workItem from="1687371872402" duration="17747000" />
       <workItem from="1687738901976" duration="7246000" />
+      <workItem from="1701500573803" duration="4684000" />
     </task>
     <servers />
   </component>

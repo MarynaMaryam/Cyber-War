@@ -117,6 +117,7 @@ public class LaunchLogin
 
 				else
 				{
+
 					JsonNode actionNode = root.get("action");
 
 					if(actionNode != null)
