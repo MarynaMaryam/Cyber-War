@@ -19,4 +19,4 @@ A network shooter with a 1st 3rd person view on the [Unreal Engine 5] engine (ht
 1. IntelliJ IDEA (server)
 2. MySql (database)
 3. Navicat (database management)
-4. Unreal Engine 5.2.1 (client)
+4. Unreal Engine 5.3.2 (client)
